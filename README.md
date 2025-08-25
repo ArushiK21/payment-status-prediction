@@ -1,5 +1,3 @@
-# payment-status-prediction
-Payment Status Analysis using Logistic Regression (Assignments 29–31)
 # Payment Status Prediction using Logistic Regression
 
 This project applies **logistic regression** to predict payment status (paid / not paid) based on customer features.  
@@ -26,3 +24,9 @@ It demonstrates data encoding, model training/testing, and interpretation of res
 ```bash
 git clone https://github.com/YourUsername/payment-status-prediction.git
 cd payment-status-prediction
+
+### 2. Install dependencies
+pip install pandas numpy scikit-learn statsmodels category_encoders
+
+
+
