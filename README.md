@@ -44,7 +44,7 @@ Model Accuracy: Achieved accuracy on test data but observed overfitting (model p
 
 Feature Impact (Odds Ratio):
 
-📈 Features increasing odds of non-payment:
+1. Features increasing odds of non-payment:
 
 Appcount (1.31) → each additional application increases odds of non-payment by 31%.
 
@@ -52,7 +52,7 @@ Education (1.20) → higher education slightly increases default risk.
 
 City_2 (1.21) → living in certain cities increases non-payment odds.
 
-📉 Features reducing odds of non-payment:
+2. Features reducing odds of non-payment:
 
 FICO Score (0.58) → higher credit score reduces odds of non-payment by 42%.
 
