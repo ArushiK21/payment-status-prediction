@@ -38,11 +38,13 @@ python scripts/odds_ratio_logistic_regression.py
 
 ## Key Findings
 
-Data Preparation: Applied binary encoding for gender, marital status, city, and province; ordinal encoding for education and age range.
+### Data Preparation: 
+Applied binary encoding for gender, marital status, city, and province; ordinal encoding for education and age range.
 
-Model Accuracy: Achieved accuracy on test data but observed overfitting (model performed better on training data).
+### Model Accuracy: 
+Achieved accuracy on test data but observed overfitting (model performed better on training data).
 
-Feature Impact (Odds Ratio):
+### Feature Impact (Odds Ratio):
 
 1. Features increasing odds of non-payment:
 
