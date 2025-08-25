@@ -1,0 +1,1001 @@
+Age,Gender,Education,Married_Status,City,Province,AgeRange,Salary,FICO,Appcount,Phonegrade,PaymentStatus
+24,Female,High School,Married,Phoenix,Arizona,18-25,45706.38646,686,2,4.757034555,0
+37,Female,Bachelor,Married,Chicago,Illinois,36-45,70425.5981,767,11,7.576111104,0
+32,Male,Master,Single,Houston,New York,26-35,66433.57083,714,19,5.696760658,0
+28,Female,PhD,Married,Los Angeles,Texas,26-35,63361.19612,368,15,1.66758576,0
+25,Male,Bachelor,Married,New York,Illinois,18-25,40097.03036,771,13,2.728146259,0
+38,Female,Bachelor,Married,Phoenix,Arizona,36-45,56369.93676,403,15,8.559984009,0
+24,Male,High School,Single,Houston,Illinois,18-25,25000,460,48,7.52421472,0
+43,Male,PhD,Single,New York,California,36-45,63569.53328,499,42,9.052857883,1
+36,Female,High School,Married,New York,Illinois,36-45,88577.15416,515,48,2.058015242,0
+40,Male,PhD,Single,Phoenix,New York,36-45,30517.35736,511,50,9.912002812,0
+28,Male,Bachelor,Single,Houston,Texas,26-35,48281.44653,807,32,2.884660426,1
+28,Male,Bachelor,Married,New York,Texas,26-35,66582.13557,315,29,1.106018887,0
+41,Male,Bachelor,Married,New York,New York,36-45,85056.85269,797,11,9.976806451,0
+38,Male,High School,Married,Houston,California,36-45,51035.50767,631,14,3.529664969,0
+21,Male,High School,Single,Chicago,New York,18-25,46154.99341,850,17,7.012175073,0
+25,Female,High School,Married,New York,Illinois,18-25,25000,555,27,2.590140828,0
+41,Male,High School,Single,Los Angeles,New York,36-45,62068.76259,471,22,6.22205679,0
+20,Male,Master,Single,Houston,New York,18-25,100841.5208,797,13,9.136314878,0
+39,Female,High School,Married,New York,California,36-45,65547.16924,770,29,3.881630507,0
+38,Female,High School,Single,Phoenix,Illinois,36-45,59554.42042,683,32,7.032285784,0
+19,Female,PhD,Married,Los Angeles,Arizona,18-25,66441.64622,806,44,2.691132299,1
+41,Female,Master,Married,New York,Arizona,36-45,59778.15992,826,14,6.623158588,0
+29,Female,PhD,Single,Los Angeles,Texas,26-35,43739.71255,624,6,4.028053166,1
+23,Female,PhD,Single,Los Angeles,New York,18-25,76465.59831,513,14,2.900874327,0
+19,Female,High School,Married,Chicago,Texas,18-25,64515.23046,507,41,3.818638456,1
+45,Male,High School,Single,Los Angeles,California,36-45,60352.26504,468,45,2.609569617,1
+38,Male,Master,Single,Chicago,Arizona,36-45,40492.67945,629,37,9.117244971,0
+18,Female,Bachelor,Married,Houston,New York,,86070.15864,579,45,4.574681977,0
+29,Male,High School,Single,Chicago,California,26-35,73294.05491,604,43,3.207513745,0
+43,Male,Master,Married,Phoenix,California,36-45,48941.58325,445,10,5.035670569,0
+39,Male,High School,Married,New York,New York,36-45,80036.49707,815,28,3.884825501,0
+29,Female,High School,Married,Houston,California,26-35,50048.58323,389,30,7.699773284,0
+42,Female,Bachelor,Single,Houston,New York,36-45,44359.93015,752,24,9.740979207,0
+34,Male,Bachelor,Single,Phoenix,New York,26-35,44805.93765,359,23,4.94230291,1
+44,Female,Bachelor,Married,Chicago,Illinois,36-45,25000,610,18,8.7493006,0
+44,Male,High School,Married,New York,Texas,36-45,69430.84761,827,1,6.092767662,0
+27,Male,Master,Single,Chicago,California,26-35,25000,526,21,2.415120986,1
+45,Male,High School,Married,Los Angeles,California,36-45,35431.12337,773,19,7.215604679,0
+45,Male,High School,Single,Chicago,Illinois,36-45,25000,840,32,5.620910474,1
+33,Female,Master,Single,Houston,Illinois,26-35,58278.60614,378,7,6.855458709,0
+32,Female,PhD,Married,New York,Illinois,26-35,56993.59079,732,24,9.007186713,0
+32,Female,Master,Single,Chicago,Arizona,26-35,53466.07574,452,45,4.963911136,0
+36,Male,Master,Married,New York,Arizona,36-45,39148.44611,700,8,9.110598609,0
+29,Female,Bachelor,Single,New York,Arizona,26-35,36555.32493,578,33,7.756021129,1
+40,Male,Bachelor,Single,Los Angeles,New York,36-45,69287.39727,356,22,5.397444333,1
+37,Female,High School,Single,Los Angeles,California,36-45,48988.96137,485,4,6.428999221,0
+42,Male,Bachelor,Married,Houston,Texas,36-45,66327.16643,697,24,3.930230193,0
+20,Male,High School,Single,Phoenix,New York,18-25,42295.02628,457,7,9.852375698,0
+22,Male,High School,Married,New York,California,18-25,63621.25486,658,15,7.006160467,0
+36,Female,Master,Married,Phoenix,California,36-45,86065.56075,739,47,1.394621672,0
+24,Female,Bachelor,Married,Houston,Illinois,18-25,71723.31601,765,44,3.939597152,0
+38,Female,High School,Married,New York,Illinois,36-45,51751.72364,745,14,6.609829904,0
+26,Female,High School,Married,New York,New York,26-35,65143.97941,787,0,1.5069995,0
+24,Male,Bachelor,Single,Phoenix,Illinois,18-25,55186.69651,829,21,1.214957722,0
+35,Female,High School,Single,Chicago,California,26-35,60157.60369,372,2,5.050218156,0
+21,Female,Master,Married,Los Angeles,Illinois,18-25,53487.77896,316,37,3.994211617,0
+42,Male,Bachelor,Single,Chicago,Arizona,36-45,56713.29588,830,13,4.944687472,0
+45,Male,Bachelor,Married,Phoenix,Illinois,36-45,64241.86706,625,35,3.364239789,0
+31,Male,Bachelor,Single,Los Angeles,California,26-35,40132.82601,845,17,2.482459722,0
+35,Female,Master,Single,Chicago,New York,26-35,39682.42346,501,46,7.202290213,1
+43,Male,High School,Married,Los Angeles,Texas,36-45,32229.14892,643,40,5.631140046,0
+26,Male,Bachelor,Single,New York,Illinois,26-35,27994.57791,822,17,2.801387901,0
+43,Male,Bachelor,Married,Chicago,California,36-45,35654.34616,699,2,3.876304836,0
+38,Female,High School,Married,Los Angeles,Texas,36-45,63189.25014,517,9,6.326271169,0
+19,Male,Master,Single,Los Angeles,Texas,18-25,42144.24969,744,48,1.650064134,1
+37,Female,Master,Married,Los Angeles,Arizona,36-45,70272.28928,521,38,2.327077083,0
+45,Female,Bachelor,Married,Chicago,Texas,36-45,60694.27498,682,46,1.659210437,0
+32,Male,Master,Married,Houston,California,26-35,25000,306,0,8.310855994,1
+45,Male,Master,Single,Chicago,California,36-45,73099.51168,571,26,7.771683099,0
+24,Female,Master,Married,Phoenix,Illinois,18-25,76215.97291,315,26,7.779816387,0
+29,Male,Master,Married,Chicago,Illinois,26-35,40122.7465,723,10,7.446928091,0
+25,Male,Bachelor,Single,Los Angeles,Illinois,18-25,68403.83086,823,48,7.024468813,0
+32,Female,Bachelor,Single,New York,Texas,26-35,42870.03525,320,4,5.292927238,0
+20,Female,Bachelor,Married,Chicago,Texas,18-25,61953.40753,527,6,6.780503472,0
+31,Male,Master,Married,Chicago,Arizona,26-35,34710.03186,587,18,1.345253993,1
+34,Female,High School,Married,Los Angeles,Illinois,26-35,25000,433,28,6.593179804,0
+21,Male,Master,Married,New York,New York,18-25,52343.65621,582,14,8.00089935,0
+35,Male,Master,Married,New York,Arizona,26-35,57525.42107,703,34,5.503225243,0
+25,Male,High School,Single,Phoenix,New York,18-25,52046.40613,365,46,4.217619956,1
+21,Female,Master,Single,Chicago,Texas,18-25,36319.38884,736,36,3.496840613,0
+19,Male,High School,Single,New York,Arizona,18-25,52002.01876,558,11,6.785218451,1
+23,Male,High School,Married,New York,Arizona,18-25,65385.89505,402,29,7.235210788,0
+39,Male,Master,Single,Houston,California,36-45,59102.1394,400,19,8.838708399,0
+27,Female,High School,Married,Houston,Texas,26-35,63650.02061,497,36,4.081006742,0
+21,Female,Master,Single,New York,Texas,18-25,46597.69599,525,2,7.927950766,0
+39,Female,Master,Single,Phoenix,Arizona,36-45,83434.35829,762,8,6.052202418,0
+35,Female,Bachelor,Married,New York,Texas,26-35,36476.53327,536,40,8.945528416,1
+43,Female,High School,Single,Los Angeles,Arizona,36-45,69751.20594,325,38,5.750308975,0
+29,Male,High School,Married,Chicago,California,26-35,83637.82186,420,25,5.658668456,1
+19,Female,Bachelor,Single,Phoenix,Arizona,18-25,69618.16185,805,1,6.200893733,0
+27,Female,PhD,Married,Los Angeles,Texas,26-35,55949.51546,481,22,7.743838196,1
+21,Female,Bachelor,Married,Phoenix,Texas,18-25,49434.05907,842,22,9.682214309,0
+31,Male,High School,Single,Los Angeles,Arizona,26-35,80721.75302,614,20,1.662070188,0
+33,Female,Bachelor,Married,Chicago,Arizona,26-35,31540.50149,572,15,1.480911422,0
+32,Female,Bachelor,Single,Chicago,Arizona,26-35,40597.51479,531,8,9.437953037,0
+25,Male,Master,Married,Houston,Illinois,18-25,52048.84469,719,12,5.76888063,0
+31,Female,High School,Single,Los Angeles,Texas,26-35,84753.07515,741,27,6.534127131,0
+40,Male,Master,Single,Houston,Texas,36-45,67595.35272,795,26,5.341812414,0
+45,Male,Bachelor,Married,Los Angeles,Illinois,36-45,40639.08483,323,50,1.842917073,1
+42,Male,PhD,Married,Houston,Arizona,36-45,53793.84589,408,16,7.912804406,1
+25,Male,High School,Married,Chicago,California,18-25,47713.53712,801,37,7.725021806,0
+38,Male,Bachelor,Married,Phoenix,Arizona,36-45,45804.22016,324,35,3.805329893,0
+33,Female,PhD,Married,Houston,Arizona,26-35,79577.79117,486,0,3.756153207,0
+30,Male,High School,Single,Los Angeles,Illinois,26-35,32565.13741,587,17,8.540572428,1
+35,Male,PhD,Single,Los Angeles,Texas,26-35,92175.61711,637,50,1.65121532,0
+32,Female,Bachelor,Single,Chicago,Arizona,26-35,76564.5938,336,8,8.929946335,1
+38,Male,High School,Single,Los Angeles,Texas,36-45,81817.23341,436,12,3.309955209,0
+41,Female,High School,Single,New York,New York,36-45,50741.20976,807,39,6.33686273,0
+43,Female,Master,Single,Phoenix,Texas,36-45,57001.18562,526,44,9.423947611,0
+42,Female,High School,Married,Houston,California,36-45,31336.96371,619,14,7.103102514,0
+45,Male,Bachelor,Single,Phoenix,California,36-45,49506.75186,481,42,4.729868312,1
+45,Male,High School,Single,Chicago,Arizona,36-45,69873.09695,385,43,7.20580788,1
+45,Male,Bachelor,Married,Houston,Texas,36-45,85921.26124,766,45,4.095816727,0
+30,Female,High School,Married,Houston,Arizona,26-35,37856.86366,352,3,3.495325747,1
+26,Male,Master,Married,New York,Illinois,26-35,52689.88126,534,32,9.970149501,1
+32,Male,PhD,Married,Chicago,California,26-35,56974.0156,732,23,7.757112081,0
+30,Male,PhD,Single,Los Angeles,Arizona,26-35,32084.21596,795,35,6.802479796,0
+18,Female,Master,Married,New York,Illinois,,71826.98484,399,50,4.197606789,0
+42,Female,High School,Married,New York,Arizona,36-45,45520.19337,702,40,1.442447462,0
+24,Male,Master,Single,Phoenix,Texas,18-25,56092.19298,695,9,1.279511884,0
+26,Male,High School,Married,Phoenix,Texas,26-35,50961.01256,826,35,5.987631299,0
+41,Male,High School,Married,Phoenix,Texas,36-45,44213.22989,714,19,7.858294489,0
+18,Male,High School,Married,New York,Texas,,59859.10029,762,40,5.836412714,0
+29,Female,Bachelor,Single,Los Angeles,New York,26-35,55687.80843,840,44,8.567065647,0
+25,Female,Master,Single,Houston,Illinois,18-25,52562.84235,663,43,1.300838798,1
+41,Female,Bachelor,Married,Phoenix,Illinois,36-45,45430.76757,429,10,4.300768688,0
+28,Female,Bachelor,Single,Los Angeles,Texas,26-35,66390.49342,383,11,3.133633521,0
+36,Male,High School,Married,Chicago,New York,36-45,93072.34537,570,17,5.025456713,0
+34,Male,PhD,Single,Phoenix,Texas,26-35,62797.74466,543,29,1.651387539,0
+25,Male,Bachelor,Single,Houston,New York,18-25,79922.3643,687,43,9.587184774,0
+20,Female,Bachelor,Single,Chicago,Texas,18-25,32195.5615,513,47,3.00929861,0
+20,Male,High School,Married,Chicago,California,18-25,63155.22879,465,36,9.300769979,0
+18,Female,Master,Single,Houston,California,,38052.63362,358,19,4.833038395,0
+44,Female,Bachelor,Single,Phoenix,Arizona,36-45,30461.50145,803,24,9.869717199,0
+22,Male,High School,Married,New York,Texas,18-25,45212.57185,422,11,5.986525451,0
+27,Male,High School,Single,Houston,Illinois,26-35,83837.98669,712,20,9.377495778,1
+24,Male,Bachelor,Married,Houston,Arizona,18-25,79000.31657,438,24,1.048140898,0
+43,Female,Bachelor,Single,Houston,California,36-45,64860.09444,528,10,7.734149256,0
+26,Male,High School,Married,Chicago,Texas,26-35,29345.9888,573,8,9.127455878,0
+45,Female,PhD,Single,Los Angeles,Arizona,36-45,56074.38697,738,49,2.257485103,0
+24,Male,High School,Married,New York,Texas,18-25,66034.00018,417,24,1.865132666,0
+26,Female,Bachelor,Married,Phoenix,California,26-35,63510.72459,782,34,4.821153465,0
+25,Female,PhD,Married,Phoenix,Arizona,18-25,25000,694,31,9.403110155,0
+29,Male,Bachelor,Married,Los Angeles,California,26-35,42193.64304,759,48,5.881479042,0
+19,Female,Bachelor,Married,Houston,New York,18-25,58718.44472,377,13,5.747108173,0
+18,Female,High School,Married,New York,California,,70725.81819,711,0,2.270135065,0
+33,Male,High School,Married,Phoenix,Texas,26-35,25000,374,16,1.0071056,0
+40,Female,PhD,Married,Phoenix,Illinois,36-45,56757.52049,594,24,8.291260817,0
+40,Male,Bachelor,Married,Houston,California,36-45,62860.9754,320,7,1.788171067,0
+41,Female,Master,Single,Los Angeles,Illinois,36-45,76992.23977,470,4,6.704648369,0
+22,Male,High School,Married,New York,New York,18-25,73857.15168,314,4,9.231548091,0
+20,Male,High School,Single,Los Angeles,Arizona,18-25,71651.42638,510,40,2.877867218,0
+29,Female,High School,Single,Los Angeles,Arizona,26-35,44001.18987,385,34,6.987455526,0
+25,Female,Bachelor,Single,New York,Illinois,18-25,25000,448,18,1.70828719,0
+39,Female,High School,Married,New York,Arizona,36-45,52138.94486,671,22,6.433796295,0
+44,Female,Master,Single,Phoenix,California,36-45,80032.6365,779,8,2.475385489,1
+20,Female,Bachelor,Married,Phoenix,Illinois,18-25,87869.09055,450,29,7.623582045,1
+18,Male,PhD,Married,New York,Texas,,74210.98205,440,49,3.711081653,0
+20,Female,High School,Married,Chicago,California,18-25,68586.81646,368,15,5.170519079,0
+22,Male,Master,Single,Phoenix,California,18-25,67592.79297,559,32,6.394874878,0
+32,Male,Master,Married,Chicago,California,26-35,48877.62506,820,1,2.541460696,0
+31,Female,Master,Married,New York,Texas,26-35,57398.79413,670,13,7.674740368,0
+20,Male,Master,Single,Phoenix,New York,18-25,93381.39052,718,45,3.723763066,1
+18,Male,Master,Single,Los Angeles,Arizona,,41148.83988,400,0,6.961346739,1
+22,Male,Bachelor,Married,New York,Illinois,18-25,92295.57581,542,25,2.424547456,0
+43,Male,High School,Married,Houston,New York,36-45,53559.43691,811,24,7.193058933,0
+40,Female,High School,Single,Chicago,Illinois,36-45,86508.64218,394,15,2.153692655,0
+31,Male,PhD,Married,New York,Arizona,26-35,31863.69981,525,14,4.828208466,1
+24,Female,Bachelor,Married,New York,Texas,18-25,71718.08402,817,25,3.224854664,0
+44,Female,Master,Married,Phoenix,California,36-45,45264.59728,513,46,7.735377245,0
+26,Male,Bachelor,Single,Phoenix,California,26-35,31694.65616,366,43,3.358315041,1
+32,Female,High School,Single,Phoenix,Texas,26-35,64370.68085,695,15,8.935455758,0
+32,Female,High School,Single,Houston,New York,26-35,80189.43577,311,13,9.026381903,0
+43,Female,Bachelor,Single,Phoenix,New York,36-45,43101.17123,536,28,2.767971837,1
+27,Male,Bachelor,Married,New York,Illinois,26-35,30019.68079,698,23,6.524613505,0
+45,Female,High School,Married,Phoenix,Texas,36-45,58163.10471,706,46,1.789458775,0
+30,Female,Bachelor,Married,Los Angeles,New York,26-35,58251.29342,779,14,4.523833896,0
+36,Female,High School,Married,Phoenix,Texas,36-45,70966.39255,521,18,7.419895566,0
+24,Male,Bachelor,Married,Houston,Arizona,18-25,78991.89143,455,7,6.934809222,0
+34,Female,High School,Single,Los Angeles,California,26-35,58811.69637,727,33,6.622306025,1
+37,Male,Master,Single,New York,California,36-45,97110.0663,457,1,3.542867773,1
+21,Male,High School,Single,New York,California,18-25,64484.69489,715,26,4.402224545,1
+22,Male,Bachelor,Married,Chicago,Texas,18-25,53071.46988,625,9,1.926515302,0
+40,Male,High School,Single,Los Angeles,Texas,36-45,27768.65282,670,34,7.471205384,0
+24,Male,High School,Single,Chicago,Illinois,18-25,54746.80959,643,22,5.534999171,0
+30,Male,High School,Married,Los Angeles,California,26-35,53272.26109,561,48,7.378890691,0
+32,Female,Bachelor,Single,Los Angeles,Illinois,26-35,79206.09593,582,7,3.240491723,0
+28,Male,Bachelor,Married,Houston,California,26-35,69249.67248,528,27,3.919944058,0
+21,Female,High School,Married,Chicago,Illinois,18-25,36412.61757,579,22,4.007938035,0
+30,Female,Bachelor,Married,Houston,Illinois,26-35,63445.08773,589,3,1.231681688,1
+24,Male,Master,Married,Los Angeles,Arizona,18-25,73430.62343,346,13,4.069430855,0
+44,Female,Master,Married,New York,Illinois,36-45,90560.62719,513,41,8.229741162,0
+36,Female,High School,Single,Los Angeles,Texas,36-45,77750.07935,323,28,9.075686462,1
+39,Female,Bachelor,Single,Houston,Illinois,36-45,75216.93309,620,0,5.663964841,0
+45,Female,High School,Single,Chicago,California,36-45,61201.71989,573,3,5.099515257,0
+19,Male,High School,Single,Chicago,Illinois,18-25,67766.24011,612,31,1.277421568,0
+27,Female,PhD,Married,Houston,New York,26-35,84990.09801,662,32,8.912839038,0
+30,Male,High School,Single,Chicago,California,26-35,33344.45205,679,48,1.117091921,0
+42,Female,Bachelor,Married,Phoenix,New York,36-45,53011.21346,769,25,9.502750722,0
+38,Female,Bachelor,Married,New York,California,36-45,44548.62502,415,16,5.402946238,0
+23,Male,Master,Married,New York,Texas,18-25,67583.06237,341,38,4.077410442,0
+45,Female,Bachelor,Married,New York,Texas,36-45,84604.44351,678,22,9.317965914,0
+45,Female,High School,Married,Chicago,Texas,36-45,48060.51427,505,31,1.219518938,1
+29,Female,High School,Married,Chicago,New York,26-35,25000,765,14,6.232824054,0
+29,Male,Bachelor,Married,Los Angeles,Arizona,26-35,51755.5851,579,12,5.94039272,0
+37,Female,High School,Single,Los Angeles,California,36-45,78269.47464,417,1,2.973883611,0
+28,Male,High School,Married,New York,Texas,26-35,70752.59806,536,18,4.859986882,1
+43,Female,High School,Married,Phoenix,California,36-45,68563.72496,608,23,6.870376053,0
+40,Male,High School,Married,Los Angeles,New York,36-45,54400.13396,755,44,7.544180772,0
+45,Male,High School,Single,Los Angeles,Arizona,36-45,34419.38528,774,23,1.006451728,0
+42,Female,High School,Married,Chicago,New York,36-45,70305.88643,399,10,9.431680871,0
+24,Female,Bachelor,Married,Phoenix,California,18-25,43314.3638,560,21,2.480728352,1
+18,Male,Bachelor,Married,New York,Arizona,,103681.9347,604,14,3.102223908,0
+18,Male,Master,Married,Los Angeles,Arizona,,71410.14417,653,9,3.371261011,0
+42,Female,High School,Married,Phoenix,New York,36-45,48387.03395,585,40,1.340381229,0
+44,Male,High School,Married,Phoenix,Texas,36-45,47772.29505,627,26,2.107469112,1
+42,Female,High School,Married,New York,California,36-45,58141.11587,402,8,9.877149306,1
+37,Female,Bachelor,Married,Phoenix,Illinois,36-45,55209.96156,362,27,3.836950636,1
+30,Female,Master,Married,Phoenix,Illinois,26-35,82336.67551,581,0,2.037709813,0
+26,Female,High School,Single,Phoenix,New York,26-35,63728.32339,740,16,1.962921351,0
+20,Male,PhD,Married,Los Angeles,California,18-25,45367.36522,592,30,7.475139709,0
+24,Female,High School,Married,New York,California,18-25,97808.8137,306,43,8.691117976,0
+23,Male,Bachelor,Married,Phoenix,New York,18-25,60986.16663,391,9,3.312570696,0
+25,Female,Master,Single,Phoenix,California,18-25,75376.79352,489,36,1.188185611,0
+44,Male,Master,Married,Los Angeles,Texas,36-45,47835.46985,775,28,3.007810166,1
+26,Female,Master,Married,New York,New York,26-35,67262.31255,810,17,1.508641217,0
+22,Male,Master,Single,Chicago,Texas,18-25,66222.19982,761,46,1.93055443,0
+18,Male,High School,Married,Los Angeles,California,,25000,352,37,4.883573079,0
+36,Female,Master,Married,New York,New York,36-45,100305.5022,785,38,3.069265338,0
+27,Female,High School,Married,Phoenix,California,26-35,85812.88922,789,48,5.643512907,0
+29,Female,Master,Single,New York,New York,26-35,52056.09368,663,5,3.281443779,0
+41,Female,Bachelor,Married,New York,California,36-45,37954.60519,411,39,9.46483571,1
+32,Male,Master,Single,New York,Texas,26-35,66951.23228,708,11,9.153495711,0
+44,Female,Bachelor,Single,Chicago,Texas,36-45,61733.95399,306,13,6.101254945,1
+39,Male,Bachelor,Married,New York,California,36-45,67113.37897,496,43,4.189815928,1
+41,Male,Bachelor,Married,Chicago,New York,36-45,63831.54792,666,9,4.430321938,0
+26,Female,Master,Married,Phoenix,Illinois,26-35,70124.81979,549,19,4.706670548,1
+37,Male,High School,Married,Chicago,Texas,36-45,88946.11399,539,14,7.548213899,0
+34,Male,High School,Married,Phoenix,Texas,26-35,71362.0641,679,30,5.06475096,0
+34,Male,High School,Single,Phoenix,Illinois,26-35,39006.89002,770,6,8.710569519,0
+43,Male,High School,Single,Chicago,California,36-45,87251.25705,754,40,9.496853073,0
+37,Female,Master,Single,Los Angeles,New York,36-45,92812.29127,665,9,4.02351538,0
+29,Female,High School,Married,Houston,California,26-35,123041.1347,589,9,6.046250332,0
+24,Female,PhD,Single,New York,Arizona,18-25,37530.11934,702,47,1.855508831,0
+19,Female,High School,Single,Houston,Texas,18-25,64857.64026,357,38,2.80422143,0
+20,Male,High School,Single,New York,Arizona,18-25,25000,820,27,4.7211919,0
+34,Male,Master,Married,New York,Texas,26-35,71062.98313,603,29,2.855824443,0
+22,Female,Bachelor,Single,Phoenix,Texas,18-25,49035.99404,414,36,8.889044417,1
+34,Female,Bachelor,Married,New York,Arizona,26-35,98468.9159,509,2,2.424576305,0
+41,Female,Bachelor,Married,New York,Arizona,36-45,44507.7006,340,49,5.100947394,0
+34,Male,Master,Married,Chicago,California,26-35,26216.33924,472,42,6.451293164,0
+44,Female,High School,Single,Houston,Arizona,36-45,50574.72519,533,14,7.226775173,1
+34,Female,PhD,Single,Chicago,California,26-35,25000,702,20,4.447624328,0
+19,Female,PhD,Married,New York,California,18-25,75021.98909,338,36,8.821891619,1
+19,Male,Bachelor,Married,Phoenix,California,18-25,25000,418,11,6.11487236,1
+45,Male,High School,Married,Chicago,Texas,36-45,60569.15162,634,3,4.955570024,0
+39,Male,Bachelor,Married,Chicago,Texas,36-45,25000,635,46,1.605165706,1
+40,Male,High School,Married,Los Angeles,Arizona,36-45,53594.04391,838,8,5.182205216,0
+22,Male,High School,Married,New York,Texas,18-25,92867.56312,373,38,8.386622567,1
+18,Male,High School,Single,Phoenix,Arizona,,67212.95783,490,41,6.530869164,0
+18,Male,Bachelor,Married,Chicago,Texas,,42730.1279,623,27,8.489462084,0
+36,Male,Master,Married,Chicago,New York,36-45,59375.93022,446,22,5.446105035,0
+19,Female,Master,Married,Phoenix,New York,18-25,60360.33744,583,44,2.066155346,0
+38,Female,Master,Single,New York,Arizona,36-45,69452.60692,512,39,1.122758613,1
+29,Male,Bachelor,Single,Los Angeles,Texas,26-35,32662.83273,693,43,3.72897592,1
+43,Male,High School,Single,Chicago,Texas,36-45,71851.34548,638,21,7.281914243,0
+23,Female,High School,Married,Los Angeles,California,18-25,25000,321,23,8.112339135,1
+40,Male,PhD,Married,Houston,Illinois,36-45,47402.30895,404,50,3.661775512,1
+21,Male,High School,Married,New York,Arizona,18-25,50234.52315,765,25,5.460885288,0
+40,Male,Master,Single,Houston,Illinois,36-45,72666.53652,758,29,4.79007014,0
+28,Female,Bachelor,Single,Houston,Illinois,26-35,60452.61705,731,32,4.694705059,0
+41,Female,Bachelor,Single,Houston,Arizona,36-45,31888.73892,520,15,3.082138419,0
+44,Female,Master,Single,New York,Texas,36-45,40300.13748,678,21,2.227339945,1
+34,Female,Bachelor,Single,New York,Arizona,26-35,63973.60019,521,48,2.770197024,0
+23,Female,Master,Married,Phoenix,Illinois,18-25,58418.65316,557,49,1.497991484,0
+41,Male,PhD,Single,Los Angeles,Texas,36-45,48417.51781,666,42,2.783176676,0
+22,Female,Bachelor,Married,Los Angeles,New York,18-25,50383.32421,648,17,1.082808079,0
+37,Male,High School,Married,Phoenix,Arizona,36-45,73923.35994,524,6,6.645325606,0
+19,Male,Bachelor,Married,Phoenix,Arizona,18-25,49646.14854,535,49,3.847378666,0
+23,Female,PhD,Married,Houston,Texas,18-25,58238.17512,482,25,9.758302403,0
+39,Female,High School,Married,Phoenix,New York,36-45,103398.7318,743,7,2.743453457,0
+28,Male,Bachelor,Married,Chicago,New York,26-35,31526.34726,305,5,4.112457133,0
+33,Male,Bachelor,Married,Los Angeles,Texas,26-35,25000,535,29,4.220570428,0
+33,Male,Master,Married,Phoenix,California,26-35,75671.7933,426,38,1.076063465,0
+18,Female,High School,Married,Chicago,Arizona,,46427.13877,403,22,8.552871577,0
+26,Female,Master,Married,Chicago,Arizona,26-35,53635.24945,779,31,1.287950141,0
+45,Female,PhD,Married,Chicago,Illinois,36-45,44376.87244,454,21,9.461618513,0
+44,Female,High School,Married,Chicago,Texas,36-45,54803.99718,556,41,9.02866916,0
+23,Female,High School,Single,Houston,Illinois,18-25,91970.76224,534,42,5.819697245,1
+33,Male,PhD,Single,Chicago,Illinois,26-35,76042.56917,799,44,5.892360174,0
+20,Female,High School,Single,Houston,New York,18-25,77244.47024,588,8,6.884001307,0
+37,Male,Master,Single,Houston,Arizona,36-45,31675.45888,809,30,4.483450107,0
+45,Male,Bachelor,Married,Chicago,Illinois,36-45,36976.92527,597,6,6.825000551,0
+44,Male,High School,Single,Los Angeles,New York,36-45,25000,436,8,1.402915498,0
+21,Female,Master,Married,Chicago,Texas,18-25,43812.38358,675,12,1.486428646,0
+36,Female,Bachelor,Married,Chicago,Illinois,36-45,79134.06373,386,2,5.115073777,0
+43,Female,Bachelor,Single,Chicago,Arizona,36-45,70338.93031,718,34,5.94660071,0
+20,Male,High School,Married,Los Angeles,Illinois,18-25,55569.73474,498,32,8.990358763,0
+36,Male,Bachelor,Single,New York,Texas,36-45,59553.99433,762,20,1.941945705,0
+37,Male,High School,Single,New York,Illinois,36-45,46222.28915,736,30,8.403831345,0
+24,Male,High School,Single,Houston,Arizona,18-25,64095.17765,609,33,2.890426036,0
+37,Male,PhD,Single,Houston,New York,36-45,75317.56559,580,31,4.546752837,0
+26,Male,High School,Married,Los Angeles,Arizona,26-35,27682.26425,622,34,3.849421913,0
+18,Female,Bachelor,Married,Phoenix,New York,,65992.95376,451,14,4.601397456,0
+25,Female,High School,Married,New York,California,18-25,78648.69742,601,31,2.354459483,0
+24,Female,Master,Married,Houston,Arizona,18-25,51697.99422,577,5,5.53213067,0
+35,Female,High School,Single,New York,Arizona,26-35,74014.01224,307,44,8.214783308,1
+25,Male,PhD,Single,Los Angeles,Texas,18-25,116293.0889,534,20,4.973806093,0
+18,Male,Bachelor,Single,Los Angeles,Illinois,,57913.14414,601,32,5.415522183,0
+28,Female,High School,Married,Phoenix,New York,26-35,67866.141,337,31,8.638908268,0
+45,Male,High School,Married,Phoenix,New York,36-45,45238.85833,435,18,7.354523032,0
+42,Female,High School,Married,Los Angeles,Texas,36-45,63625.02325,720,32,5.414089677,0
+42,Female,Bachelor,Married,Houston,Texas,36-45,69205.4325,518,27,3.319260834,1
+35,Female,High School,Single,New York,Illinois,26-35,63896.84681,647,30,8.964340722,0
+40,Male,Master,Married,Chicago,Illinois,36-45,39606.09361,845,20,6.193183615,1
+27,Female,Bachelor,Married,Phoenix,Arizona,26-35,64127.23543,378,33,2.990328491,0
+20,Female,High School,Married,Chicago,California,18-25,89243.91877,572,14,3.422077774,0
+24,Female,Bachelor,Single,Houston,Illinois,18-25,68972.71529,460,13,8.2281978,0
+45,Male,Master,Single,Phoenix,Texas,36-45,79239.74378,607,18,1.397310059,0
+33,Male,High School,Married,Chicago,Illinois,26-35,55259.7606,673,42,9.928829683,0
+43,Female,High School,Married,Houston,New York,36-45,74998.00479,308,14,2.173165117,0
+33,Male,High School,Married,New York,California,26-35,65585.35676,743,5,8.164616729,0
+42,Male,Master,Married,Houston,Arizona,36-45,40981.78541,412,8,4.552977851,0
+37,Male,Bachelor,Single,Phoenix,New York,36-45,66370.4201,504,36,5.42994565,0
+45,Male,Bachelor,Single,Los Angeles,New York,36-45,40166.06673,704,19,8.925855197,0
+34,Male,Master,Married,New York,California,26-35,47342.3945,496,33,4.716200706,1
+19,Male,Master,Married,Chicago,Arizona,18-25,63786.56615,414,37,5.837443783,1
+18,Male,Bachelor,Single,Phoenix,Texas,,65944.88547,420,25,1.443696962,0
+33,Male,Master,Married,Los Angeles,Arizona,26-35,36215.3507,364,17,1.021127265,0
+29,Male,High School,Single,Houston,Illinois,26-35,81079.71542,575,27,3.203198857,0
+22,Male,High School,Married,Los Angeles,New York,18-25,71440.12557,538,50,7.125247836,1
+22,Female,High School,Married,Phoenix,Illinois,18-25,45905.43129,601,8,2.09138404,0
+44,Female,High School,Married,Phoenix,Texas,36-45,29248.30407,691,31,2.023857629,1
+40,Male,Bachelor,Married,Los Angeles,Illinois,36-45,57101.90842,821,5,4.698645472,0
+26,Female,PhD,Single,Houston,Arizona,26-35,51081.12572,668,13,6.830533347,0
+26,Female,High School,Married,Los Angeles,Illinois,26-35,62262.80914,532,27,7.40864793,0
+20,Male,High School,Married,Phoenix,Texas,18-25,52737.66678,494,23,2.606056067,0
+36,Male,Bachelor,Married,Phoenix,Texas,36-45,25000,311,12,1.716293326,0
+33,Male,PhD,Married,Chicago,Texas,26-35,52233.06123,476,42,9.463573306,1
+33,Female,High School,Married,Chicago,Arizona,26-35,53887.61778,516,11,3.345997443,0
+20,Female,Bachelor,Married,New York,Texas,18-25,72673.2205,310,50,8.680118478,1
+37,Male,High School,Single,Phoenix,New York,36-45,46036.00651,745,18,8.771423054,0
+41,Male,High School,Married,Chicago,Texas,36-45,93573.49347,463,20,7.952703326,0
+39,Male,PhD,Married,Los Angeles,Illinois,36-45,25000,850,26,2.51950246,0
+41,Female,PhD,Single,Houston,Illinois,36-45,86223.34996,352,18,8.396213133,0
+18,Female,High School,Married,Los Angeles,Illinois,,55513.62058,517,23,7.923255033,0
+41,Female,PhD,Single,Houston,Arizona,36-45,77191.69745,659,25,6.370506911,0
+37,Female,Bachelor,Married,Chicago,Illinois,36-45,61596.02968,684,44,4.034818317,0
+28,Male,Master,Single,New York,Arizona,26-35,82791.11072,355,27,3.362577438,1
+34,Male,Bachelor,Single,Los Angeles,Arizona,26-35,52252.76071,417,45,2.097002909,0
+25,Male,Bachelor,Single,Los Angeles,Texas,18-25,38027.5915,552,17,5.587813602,0
+21,Male,Bachelor,Single,Los Angeles,New York,18-25,88410.08575,479,43,6.26734788,0
+23,Female,Bachelor,Married,Houston,Texas,18-25,57730.38708,714,35,4.234050915,0
+25,Female,High School,Single,Chicago,Texas,18-25,64431.16947,534,41,5.278231609,0
+37,Male,High School,Married,Los Angeles,Arizona,36-45,84695.03828,379,28,4.271630116,0
+20,Male,High School,Married,Los Angeles,Arizona,18-25,39360.89516,321,16,6.769054516,0
+33,Female,Master,Married,New York,Illinois,26-35,71909.81795,776,3,9.11133287,0
+42,Male,High School,Married,New York,Illinois,36-45,48202.10487,739,43,2.475282358,0
+20,Female,Bachelor,Married,Chicago,Texas,18-25,57356.61289,392,44,4.432679289,0
+42,Male,PhD,Married,Chicago,California,36-45,61445.57931,491,28,2.267817436,0
+35,Male,High School,Married,Phoenix,California,26-35,29995.56277,402,3,6.624493934,0
+31,Male,Bachelor,Single,New York,Illinois,26-35,44423.25914,695,9,7.559834585,0
+35,Male,Bachelor,Single,Phoenix,California,26-35,87021.45785,306,24,9.387214593,0
+19,Male,Master,Married,Houston,Illinois,18-25,77723.82377,530,30,3.509847336,1
+39,Male,High School,Married,Phoenix,Arizona,36-45,58747.20845,539,2,9.551900853,0
+20,Male,Bachelor,Married,Los Angeles,Texas,18-25,64862.46917,389,46,1.569364046,0
+33,Female,Master,Married,Phoenix,New York,26-35,54115.14989,531,1,6.42712477,0
+26,Female,PhD,Married,Chicago,Texas,26-35,87131.66772,756,24,1.514194474,0
+21,Female,Bachelor,Married,Houston,Illinois,18-25,55992.94844,532,48,9.04396769,1
+18,Female,Bachelor,Married,Los Angeles,Illinois,,64636.84184,653,5,5.768281514,0
+21,Female,Bachelor,Single,Phoenix,Texas,18-25,82920.60288,632,25,7.024135157,1
+18,Male,Master,Married,Houston,Illinois,,44452.5703,738,7,8.484165333,1
+31,Male,Bachelor,Married,Houston,California,26-35,91175.78369,674,34,2.352795602,0
+38,Female,High School,Married,Los Angeles,California,36-45,29390.77181,591,26,1.347324057,1
+33,Male,PhD,Married,Phoenix,Illinois,26-35,92592.84262,644,24,8.909930313,0
+37,Female,Bachelor,Married,Houston,Illinois,36-45,52546.48832,727,17,3.834399047,0
+41,Female,Bachelor,Single,Houston,California,36-45,55146.02504,429,0,2.160810171,0
+25,Male,High School,Married,New York,Illinois,18-25,25000,440,47,5.216151134,0
+24,Male,Bachelor,Married,Houston,Illinois,18-25,50904.10565,714,38,6.384754681,0
+20,Male,High School,Single,New York,Texas,18-25,39203.86938,392,2,1.278735431,0
+34,Female,Bachelor,Single,Phoenix,New York,26-35,47847.07309,583,3,3.474060924,1
+18,Male,High School,Single,Phoenix,California,,57253.78068,522,40,1.295198868,1
+33,Female,Bachelor,Married,Phoenix,Texas,26-35,79155.83229,762,36,4.783018503,0
+29,Female,PhD,Single,Chicago,New York,26-35,64152.06703,844,50,9.055900262,0
+44,Female,High School,Married,Phoenix,Illinois,36-45,66153.53307,575,14,9.843871703,0
+36,Male,PhD,Married,Houston,Illinois,36-45,38089.61222,439,7,6.733427982,0
+39,Male,Bachelor,Married,Los Angeles,Texas,36-45,42384.91821,656,37,2.454739244,0
+40,Female,Master,Married,New York,Illinois,36-45,95974.50037,322,49,9.15264451,0
+39,Male,Master,Married,Chicago,Arizona,36-45,45295.9793,569,18,5.646230409,0
+31,Male,Bachelor,Married,Phoenix,Texas,26-35,93124.16504,632,46,2.383743809,0
+23,Male,Master,Single,Phoenix,New York,18-25,55138.77602,384,25,9.295540025,1
+23,Female,Master,Single,Los Angeles,Texas,18-25,60045.75872,330,38,7.817221457,0
+30,Female,Bachelor,Single,Los Angeles,California,26-35,81407.3032,539,9,7.585347455,0
+36,Male,High School,Married,Chicago,Texas,36-45,85437.84844,662,37,7.382626334,0
+39,Female,Bachelor,Single,New York,Illinois,36-45,57783.74879,688,13,2.80305839,1
+25,Male,Master,Married,Phoenix,Illinois,18-25,52235.13893,598,48,2.899060225,0
+44,Male,Master,Single,Chicago,Arizona,36-45,58881.59103,670,40,7.194636986,0
+44,Male,Master,Married,Houston,Arizona,36-45,66759.15056,398,18,2.977504751,0
+19,Male,Bachelor,Single,Houston,Arizona,18-25,77826.07374,346,29,4.948045271,1
+38,Female,Master,Married,Chicago,New York,36-45,60084.59718,721,4,8.03801643,0
+18,Female,High School,Single,Phoenix,Arizona,,72377.72596,779,30,8.055572663,0
+45,Female,Bachelor,Single,Chicago,New York,36-45,92767.19465,361,6,5.079355953,0
+32,Male,High School,Married,Phoenix,Arizona,26-35,67626.19225,408,18,8.129709444,0
+18,Male,High School,Married,Los Angeles,New York,,66233.05712,848,30,8.547596166,0
+22,Male,High School,Single,Chicago,Texas,18-25,29621.7835,418,38,6.892981762,0
+45,Female,High School,Married,Phoenix,Texas,36-45,25000,681,23,3.055832671,1
+33,Male,Bachelor,Single,Chicago,Illinois,26-35,67767.51458,691,33,3.466106023,1
+36,Female,High School,Married,Chicago,New York,36-45,58103.51537,351,22,3.833570399,0
+21,Female,Bachelor,Married,Phoenix,California,18-25,49704.3465,588,47,2.05123697,0
+20,Female,High School,Married,Phoenix,Illinois,18-25,64870.60408,636,44,3.458436583,0
+34,Female,High School,Married,New York,Texas,26-35,58791.92542,503,39,2.885673019,1
+34,Female,High School,Single,Chicago,New York,26-35,82555.60501,537,5,5.097958748,0
+29,Female,High School,Married,Houston,Arizona,26-35,61722.21737,681,37,9.175937931,0
+45,Male,Bachelor,Married,Chicago,California,36-45,45061.5343,435,40,1.940322851,1
+31,Male,Bachelor,Married,Chicago,Texas,26-35,79803.32478,706,35,7.482411316,0
+38,Female,Bachelor,Married,Phoenix,Illinois,36-45,55657.3785,807,26,7.18554704,0
+23,Female,Bachelor,Single,Chicago,New York,18-25,70530.73367,661,10,1.861787788,0
+20,Male,High School,Single,Chicago,California,18-25,50451.78588,680,4,9.303151644,0
+45,Female,Master,Married,Houston,New York,36-45,47003.46229,553,16,6.116249819,1
+26,Female,Bachelor,Single,Phoenix,Arizona,26-35,61683.3646,776,6,4.27352969,0
+22,Male,Bachelor,Single,Chicago,Illinois,18-25,60256.57287,413,26,7.808847251,1
+41,Female,High School,Married,Los Angeles,New York,36-45,69596.54071,319,46,3.316289126,0
+34,Female,High School,Single,New York,Texas,26-35,54627.08493,827,14,7.241588533,0
+31,Female,High School,Married,Houston,Illinois,26-35,25000,444,45,1.357400868,0
+38,Male,High School,Married,Chicago,Texas,36-45,51344.52233,507,12,8.554672338,0
+20,Male,Bachelor,Single,Los Angeles,New York,18-25,75876.36934,830,10,5.033537623,0
+45,Male,Bachelor,Married,Chicago,Illinois,36-45,54052.47842,675,44,6.730236229,0
+18,Female,Bachelor,Single,Chicago,Texas,,55072.33195,803,25,2.991140378,0
+37,Female,Master,Single,Phoenix,Arizona,36-45,79727.53012,465,21,7.093663414,0
+38,Male,Master,Married,Phoenix,Arizona,36-45,45760.53545,849,27,7.950162483,1
+40,Female,Master,Single,Phoenix,New York,36-45,29143.93564,480,23,5.258918682,0
+18,Female,PhD,Married,Los Angeles,Illinois,,56787.37761,743,28,6.559542317,1
+20,Female,High School,Married,Chicago,California,18-25,50316.52098,631,8,5.106933314,0
+35,Female,High School,Single,New York,Illinois,26-35,40675.0736,802,41,9.046822323,0
+42,Female,High School,Single,Houston,Arizona,36-45,56492.43088,378,3,5.480822625,0
+27,Male,Bachelor,Married,Phoenix,Texas,26-35,69830.11294,695,48,8.576278381,0
+39,Female,Master,Married,Phoenix,California,36-45,59814.22877,402,45,8.212168524,0
+43,Male,High School,Single,Chicago,New York,36-45,66139.62145,701,17,4.694543392,0
+20,Female,PhD,Single,Chicago,California,18-25,96268.15397,523,42,3.070760427,1
+25,Male,High School,Single,Los Angeles,New York,18-25,53142.42277,817,15,4.654739193,0
+31,Female,PhD,Married,Los Angeles,California,26-35,65566.97269,535,32,8.435956382,0
+41,Male,High School,Married,Phoenix,New York,36-45,49815.73275,726,28,3.048692822,0
+35,Female,High School,Married,Chicago,New York,26-35,43072.8056,415,38,5.719927113,0
+32,Male,Bachelor,Single,New York,California,26-35,48301.84693,462,9,8.254870732,0
+39,Female,High School,Married,Houston,California,36-45,50424.82857,525,8,4.181297276,0
+40,Male,High School,Married,Chicago,New York,36-45,67189.51595,529,30,6.779886733,0
+19,Female,High School,Single,Chicago,Arizona,18-25,106981.5157,481,27,3.210684166,1
+44,Male,Master,Married,Los Angeles,California,36-45,45679.13127,548,2,1.983515008,1
+27,Male,Bachelor,Single,Houston,Illinois,26-35,51667.49389,617,13,8.149458026,0
+19,Female,High School,Single,Phoenix,Texas,18-25,58737.53974,509,24,1.890717611,0
+43,Female,Bachelor,Single,Chicago,New York,36-45,67915.97697,691,14,3.442432556,0
+34,Male,Master,Married,Phoenix,New York,26-35,65271.01624,395,1,8.695984798,0
+25,Female,High School,Married,Chicago,Texas,18-25,85681.91588,385,23,4.118223584,0
+18,Male,Bachelor,Single,Phoenix,Arizona,,25000,714,13,9.757408146,0
+26,Male,High School,Single,Houston,Texas,26-35,25000,693,47,9.817609013,1
+28,Male,High School,Single,Los Angeles,California,26-35,50082.43656,800,6,3.414484184,0
+39,Female,Bachelor,Married,Houston,Texas,36-45,81946.00375,432,35,1.368804,1
+33,Male,High School,Single,New York,New York,26-35,28687.03937,613,49,7.345569558,0
+24,Male,Bachelor,Single,Los Angeles,Texas,18-25,25000,520,23,5.058878524,0
+27,Female,Master,Single,Houston,Illinois,26-35,71423.58812,737,26,1.906775596,0
+40,Female,High School,Single,New York,California,36-45,64873.14447,345,36,7.367705371,0
+43,Female,Bachelor,Single,Chicago,Texas,36-45,38195.83186,491,37,1.280574182,0
+20,Female,High School,Single,Chicago,New York,18-25,40289.20799,819,29,8.831770214,0
+35,Male,PhD,Married,Phoenix,California,26-35,40605.12561,678,26,2.247872762,0
+42,Male,Bachelor,Married,Los Angeles,New York,36-45,62210.70635,633,38,2.145806909,0
+41,Male,Master,Married,Chicago,Arizona,36-45,47473.69448,338,14,2.581050682,0
+30,Male,Bachelor,Married,Los Angeles,Illinois,26-35,69881.27838,592,25,9.642397226,1
+45,Female,High School,Married,Chicago,Arizona,36-45,25000,461,0,7.238524242,0
+43,Male,Bachelor,Married,Phoenix,Illinois,36-45,42862.9627,630,3,8.212343819,0
+24,Male,PhD,Married,Houston,Texas,18-25,37478.92078,403,28,4.578714872,0
+42,Female,Bachelor,Married,Phoenix,California,36-45,54873.18643,460,0,4.026814548,0
+21,Male,Master,Single,New York,Texas,18-25,49239.04483,353,42,3.110356061,1
+30,Male,Master,Single,Chicago,Illinois,26-35,75956.8756,333,49,5.325832255,0
+37,Male,High School,Married,New York,Illinois,36-45,25000,541,45,5.966458602,1
+18,Male,High School,Single,New York,Illinois,,60909.82953,412,21,6.685973593,0
+25,Male,Bachelor,Married,Los Angeles,New York,18-25,71166.72846,617,10,3.314066536,0
+31,Male,Bachelor,Married,Chicago,California,26-35,97132.94873,322,9,9.537886728,0
+33,Female,Master,Married,New York,Texas,26-35,50364.68058,417,16,2.527826484,0
+31,Female,PhD,Married,Houston,Texas,26-35,66489.17209,511,35,9.690878573,0
+29,Male,High School,Single,New York,Arizona,26-35,25000,717,46,1.133705103,0
+36,Male,High School,Single,Houston,Illinois,36-45,25000,412,25,5.330131226,0
+40,Female,Master,Married,Los Angeles,Illinois,36-45,76895.48752,343,47,4.000310543,0
+32,Male,High School,Married,New York,Illinois,26-35,59888.79413,427,20,5.042110725,0
+45,Male,Master,Married,Phoenix,Texas,36-45,83570.2538,457,12,6.135981211,0
+19,Male,Bachelor,Married,Los Angeles,Arizona,18-25,32531.94222,693,8,4.920302422,1
+19,Female,Bachelor,Married,Houston,New York,18-25,70398.04279,811,10,4.733621653,0
+40,Male,High School,Married,Los Angeles,California,36-45,97376.35681,344,10,7.594510739,0
+39,Female,Bachelor,Single,New York,New York,36-45,68394.11217,407,5,7.172886476,1
+36,Male,Bachelor,Single,Chicago,Texas,36-45,65531.63011,518,0,8.499441538,0
+42,Female,Bachelor,Married,Chicago,Illinois,36-45,60171.12162,742,5,3.249630831,0
+43,Female,High School,Single,Houston,California,36-45,28582.37086,614,12,6.485756588,1
+39,Male,Master,Married,Houston,Texas,36-45,87111.45871,476,21,6.266753069,0
+43,Female,Master,Married,Chicago,Texas,36-45,47782.8472,527,30,4.327640298,1
+43,Male,High School,Married,Houston,Texas,36-45,70089.66513,566,21,5.374517877,0
+39,Female,High School,Single,Los Angeles,California,36-45,28739.31387,678,36,3.82403929,1
+34,Male,High School,Single,Phoenix,California,26-35,36410.80671,788,46,2.276599579,0
+37,Male,Bachelor,Single,Phoenix,Arizona,36-45,88701.74798,589,26,2.924210896,1
+27,Female,Bachelor,Married,Los Angeles,Arizona,26-35,53053.95422,656,49,1.949622818,0
+23,Male,Bachelor,Single,Phoenix,New York,18-25,89065.50952,503,13,7.147626177,0
+32,Male,High School,Married,New York,California,26-35,58435.38682,512,46,6.946546538,0
+39,Female,High School,Single,Los Angeles,California,36-45,25000,622,4,9.555457344,0
+28,Male,Bachelor,Married,Houston,California,26-35,77841.35199,480,35,7.567105723,0
+45,Male,Bachelor,Married,Los Angeles,Arizona,36-45,48202.15364,798,31,1.468412549,0
+22,Female,PhD,Married,Chicago,Texas,18-25,73973.77627,619,33,8.958206565,0
+18,Female,High School,Single,Houston,Illinois,,60504.21735,382,6,8.764076467,0
+25,Male,Bachelor,Married,Chicago,Arizona,18-25,29137.63544,602,41,4.989882887,0
+38,Male,Bachelor,Single,Houston,California,36-45,63285.89531,561,47,6.272767455,1
+45,Female,Bachelor,Married,Phoenix,Arizona,36-45,103924.4628,499,9,9.784704992,0
+29,Female,Master,Single,Los Angeles,New York,26-35,69859.72917,539,49,5.790739275,0
+29,Male,Bachelor,Single,New York,California,26-35,58849.64494,594,16,9.147896455,0
+22,Female,PhD,Single,Houston,New York,18-25,81506.86804,811,29,1.74734882,0
+24,Male,High School,Married,Houston,California,18-25,64213.3693,695,20,2.719466818,0
+21,Male,High School,Married,Chicago,Arizona,18-25,64190.68461,437,12,4.966794491,0
+23,Male,Master,Married,Phoenix,Texas,18-25,38167.49656,428,0,6.262811275,1
+30,Male,Bachelor,Single,Chicago,Illinois,26-35,64676.96052,348,0,8.346050667,0
+37,Male,High School,Married,Chicago,New York,36-45,80708.86833,592,46,9.894359036,0
+32,Female,High School,Married,Phoenix,Arizona,26-35,43278.75696,835,32,4.499663468,0
+20,Female,High School,Married,New York,Texas,18-25,88489.91642,610,37,1.426740725,0
+40,Female,Master,Married,Chicago,Arizona,36-45,58165.87952,836,24,8.21054353,0
+25,Female,High School,Single,Chicago,New York,18-25,42244.60977,533,25,6.439426472,0
+37,Male,High School,Married,Houston,Illinois,36-45,79952.64154,508,12,2.78688573,0
+33,Male,High School,Single,Phoenix,Arizona,26-35,54264.11529,393,27,5.45345611,0
+30,Male,High School,Married,Los Angeles,California,26-35,75190.29775,626,32,7.68079221,0
+35,Male,High School,Married,New York,Texas,26-35,54164.82735,524,36,7.933706084,1
+45,Female,Bachelor,Married,New York,Arizona,36-45,58803.47713,310,40,5.496565708,0
+27,Male,High School,Married,Phoenix,Texas,26-35,69871.20409,628,29,3.746930771,0
+36,Male,Master,Married,Houston,California,36-45,65817.94115,311,48,9.763683238,0
+34,Female,High School,Single,Houston,Illinois,26-35,25000,334,47,6.970263499,0
+41,Female,Bachelor,Married,Phoenix,Illinois,36-45,37575.1252,746,7,4.674137674,1
+36,Female,Master,Single,Houston,California,36-45,78588.1997,751,48,3.524169018,0
+45,Female,Bachelor,Married,New York,Texas,36-45,57357.26822,519,46,7.579926847,0
+43,Male,Bachelor,Married,New York,Arizona,36-45,49525.37394,740,0,3.17965101,1
+40,Male,High School,Single,Los Angeles,California,36-45,32828.51969,834,11,2.545389901,0
+43,Female,High School,Married,Phoenix,New York,36-45,38405.27357,528,4,5.768505001,0
+22,Male,Bachelor,Married,Chicago,Texas,18-25,25000,643,23,3.609886534,0
+43,Male,PhD,Married,Chicago,Illinois,36-45,57974.38563,379,5,6.660146304,0
+38,Male,Bachelor,Married,Los Angeles,California,36-45,48031.24839,652,24,2.061448074,0
+40,Female,Bachelor,Single,Los Angeles,Illinois,36-45,40668.24218,695,0,6.894469941,0
+26,Male,Master,Married,Houston,Texas,26-35,58637.5315,589,24,3.549668752,0
+29,Female,Bachelor,Single,Los Angeles,Illinois,26-35,67279.41262,754,0,1.00218641,0
+38,Male,High School,Single,Los Angeles,California,36-45,101863.9586,427,31,2.142424519,1
+18,Male,Bachelor,Married,Chicago,Texas,,29762.33161,842,41,9.402538401,0
+43,Male,PhD,Single,Houston,New York,36-45,83187.62087,658,41,8.806191752,0
+43,Female,High School,Married,Los Angeles,California,36-45,79462.03122,826,2,3.102481288,0
+18,Male,Bachelor,Single,Los Angeles,Arizona,,44418.14521,612,48,8.005347141,1
+32,Female,High School,Married,Houston,California,26-35,64064.71909,374,18,6.477144339,0
+19,Female,Bachelor,Single,Phoenix,Texas,18-25,50847.33501,845,42,9.738142403,1
+39,Female,High School,Married,Houston,California,36-45,63713.77161,495,28,4.362450936,1
+33,Male,Bachelor,Married,Chicago,New York,26-35,90182.62027,328,49,7.133145513,0
+42,Male,Master,Single,Phoenix,New York,36-45,72112.12465,315,1,1.571821502,0
+25,Male,High School,Single,New York,Arizona,18-25,70172.16746,722,8,4.566226121,0
+30,Male,Bachelor,Married,Houston,Illinois,26-35,51393.8136,704,16,9.674358951,0
+38,Female,Master,Married,Chicago,Texas,36-45,30318.8667,830,45,5.85082787,0
+18,Female,PhD,Single,Phoenix,Texas,,55830.63579,376,35,3.59091553,0
+33,Female,High School,Single,Houston,Illinois,26-35,84132.1631,528,16,2.082438668,0
+24,Male,High School,Single,Los Angeles,New York,18-25,29456.64287,596,48,7.331755062,0
+22,Female,High School,Single,Houston,New York,18-25,38898.21264,809,11,6.803704391,0
+39,Male,PhD,Single,New York,California,36-45,62525.35472,837,19,4.365448422,0
+40,Female,PhD,Single,Houston,Arizona,36-45,40306.9043,625,49,9.558472167,1
+20,Male,Bachelor,Married,Phoenix,Arizona,18-25,44149.53106,662,2,1.199825317,0
+29,Male,Master,Married,Phoenix,Arizona,26-35,51528.02837,658,42,3.733514665,0
+43,Female,Bachelor,Single,Houston,California,36-45,32687.65192,623,49,9.289625377,1
+33,Female,Bachelor,Single,Phoenix,Arizona,26-35,40517.56308,625,3,3.888418945,1
+36,Female,High School,Married,Los Angeles,Illinois,36-45,74068.55834,464,16,3.270275505,0
+22,Female,Master,Married,Houston,California,18-25,33852.60436,754,49,5.807983689,1
+39,Male,High School,Single,Los Angeles,Illinois,36-45,28042.55731,452,36,8.414215749,0
+42,Female,Master,Married,Los Angeles,California,36-45,47399.50041,426,45,1.928320848,0
+31,Female,Master,Married,Chicago,Arizona,26-35,74639.11005,492,41,9.487186387,1
+45,Female,Master,Married,Houston,Illinois,36-45,56061.56384,829,14,8.155655931,0
+22,Male,High School,Married,Phoenix,Illinois,18-25,50708.37844,309,32,2.6312523,0
+32,Male,High School,Married,Los Angeles,Illinois,26-35,60887.17595,391,15,7.408071651,0
+34,Female,High School,Married,Chicago,California,26-35,25085.85134,438,10,4.464628504,1
+31,Male,High School,Married,Houston,Texas,26-35,69894.11308,780,19,4.620652103,0
+37,Female,High School,Single,Houston,Arizona,36-45,67668.70063,748,37,8.049610832,0
+22,Male,PhD,Married,New York,Illinois,18-25,51813.83052,632,23,9.665063272,1
+29,Male,Bachelor,Single,New York,Texas,26-35,80118.49024,639,15,2.139902856,0
+33,Male,High School,Single,Los Angeles,Arizona,26-35,37450.07802,351,29,4.785672132,1
+43,Male,High School,Married,New York,Arizona,36-45,82558.17987,765,33,5.328474473,0
+43,Female,Bachelor,Single,Los Angeles,Illinois,36-45,63089.87331,774,0,4.386806353,0
+33,Female,Bachelor,Married,Phoenix,Illinois,26-35,53268.9482,700,23,4.268702113,0
+38,Female,Bachelor,Single,Los Angeles,California,36-45,59602.52729,738,23,1.470418008,0
+24,Male,PhD,Married,New York,Texas,18-25,57854.70468,808,8,7.169847585,0
+21,Female,Bachelor,Single,Phoenix,Texas,18-25,84405.65793,452,21,4.925929754,0
+18,Female,PhD,Single,New York,Illinois,,38466.41745,813,11,2.753144224,0
+22,Female,Master,Married,Los Angeles,Arizona,18-25,44749.61522,802,16,8.344301521,0
+40,Male,High School,Married,Chicago,Illinois,36-45,80726.05784,305,24,8.223046733,0
+43,Male,PhD,Single,Houston,Arizona,36-45,48089.3013,799,27,5.377524653,0
+27,Male,High School,Single,New York,Arizona,26-35,78010.66155,417,14,3.68605595,0
+39,Female,Master,Married,Los Angeles,Illinois,36-45,93988.71966,784,29,6.742834532,0
+22,Female,High School,Single,Phoenix,New York,18-25,51964.09946,767,50,3.593369222,0
+21,Female,Master,Married,New York,Texas,18-25,73627.24653,460,26,3.124071373,0
+19,Male,Master,Single,New York,Arizona,18-25,36926.15437,569,21,7.574631886,1
+37,Male,Master,Married,Houston,Arizona,36-45,75094.66596,355,9,1.362927157,0
+27,Female,Master,Single,Los Angeles,New York,26-35,63988.47972,527,30,1.852916239,0
+43,Male,High School,Married,Chicago,California,36-45,69460.76564,448,26,1.061093566,0
+36,Male,High School,Married,Phoenix,New York,36-45,47088.55856,345,11,2.376488678,1
+43,Male,Bachelor,Married,Los Angeles,New York,36-45,26778.33169,443,45,1.620910078,0
+18,Male,High School,Married,Phoenix,Arizona,,70065.04129,639,30,9.96222131,0
+41,Female,Bachelor,Married,New York,Texas,36-45,25000,712,31,3.59928973,1
+22,Male,High School,Married,Houston,New York,18-25,53652.99016,819,31,2.343412114,0
+30,Male,PhD,Single,Houston,California,26-35,78823.63733,643,40,3.168966322,0
+21,Male,Bachelor,Married,Chicago,Illinois,18-25,63837.95472,686,44,9.425130144,0
+33,Male,Master,Married,Houston,New York,26-35,98966.8529,772,34,5.681442007,0
+41,Female,High School,Married,New York,New York,36-45,80502.18305,574,45,4.283362867,1
+33,Female,Master,Married,Chicago,California,26-35,46922.03223,652,20,8.860523121,0
+40,Male,PhD,Married,Los Angeles,Texas,36-45,60546.2676,365,9,4.554912435,0
+19,Male,Bachelor,Married,Houston,New York,18-25,59052.58595,378,15,4.01507713,0
+34,Male,Bachelor,Married,Chicago,New York,26-35,28356.46473,501,6,2.865542703,0
+45,Male,Master,Married,New York,Texas,36-45,41192.02167,412,3,4.400171415,1
+44,Male,High School,Married,Phoenix,California,36-45,48784.78186,390,26,3.850159204,0
+37,Male,Bachelor,Married,Phoenix,New York,36-45,25000,440,24,7.095735634,1
+41,Female,High School,Married,New York,Texas,36-45,60949.86937,588,30,3.606244342,1
+29,Male,High School,Married,New York,New York,26-35,55018.56311,710,10,6.194797718,0
+35,Female,High School,Single,Phoenix,Illinois,26-35,26542.12197,676,47,1.593029485,1
+20,Female,High School,Married,Chicago,Arizona,18-25,68084.25731,683,19,2.72160241,0
+45,Male,High School,Single,Phoenix,Illinois,36-45,74317.45489,451,35,4.666647445,0
+18,Female,High School,Married,New York,New York,,64540.68958,618,16,9.432543285,0
+18,Female,PhD,Single,Houston,California,,53518.6365,668,44,4.395267871,0
+36,Female,Bachelor,Single,Los Angeles,Arizona,36-45,71828.84304,761,10,6.976667091,0
+28,Female,PhD,Married,Houston,Illinois,26-35,73604.40721,311,29,3.295785002,0
+22,Female,Bachelor,Single,Houston,Texas,18-25,66148.07139,455,34,2.143302184,0
+29,Female,High School,Married,New York,California,26-35,43507.75499,776,40,1.526829401,0
+20,Male,Bachelor,Married,Phoenix,Illinois,18-25,65532.01531,700,37,3.748721487,0
+18,Female,Bachelor,Single,Chicago,Texas,,83909.61302,476,21,2.418949241,0
+18,Female,High School,Single,Houston,New York,,48067.41883,640,42,2.566094032,1
+25,Female,Bachelor,Married,Phoenix,Texas,18-25,101958.7868,356,47,7.846833775,1
+27,Male,High School,Married,Chicago,Illinois,26-35,49487.38132,747,50,1.142542639,1
+28,Female,Bachelor,Married,Houston,Illinois,26-35,60648.14027,502,26,6.020291132,1
+29,Male,Bachelor,Married,Chicago,New York,26-35,46550.28808,501,36,4.415152425,0
+30,Female,High School,Single,Phoenix,Texas,26-35,64465.41672,629,45,5.558949999,0
+29,Male,High School,Married,Los Angeles,Texas,26-35,25155.56615,662,48,6.065472135,0
+31,Male,Master,Married,Phoenix,New York,26-35,49079.16402,753,34,3.82030925,1
+19,Female,Bachelor,Married,New York,Texas,18-25,38157.57599,655,3,3.655979742,0
+36,Female,High School,Married,Chicago,New York,36-45,62706.76696,515,15,7.600616644,1
+35,Male,PhD,Married,Los Angeles,California,26-35,79888.94751,322,15,8.841492893,0
+20,Female,High School,Single,Chicago,Illinois,18-25,72920.12374,454,20,2.733234692,1
+40,Male,Bachelor,Single,Chicago,California,36-45,25000,485,25,1.878568845,1
+34,Male,PhD,Single,Houston,Arizona,26-35,100841.3931,548,35,9.080162258,1
+43,Male,High School,Married,New York,Arizona,36-45,65905.59881,433,18,4.149059173,0
+25,Male,High School,Single,Chicago,Arizona,18-25,44470.01719,620,16,5.961856516,0
+43,Male,High School,Single,Phoenix,New York,36-45,63142.55838,689,44,4.235888301,0
+27,Female,High School,Single,Phoenix,Texas,26-35,63523.79645,733,25,2.132221027,0
+43,Male,High School,Married,Houston,California,36-45,46663.02566,321,21,6.303984805,1
+19,Male,Bachelor,Married,New York,California,18-25,63958.33335,424,27,5.726267666,0
+36,Female,High School,Married,New York,California,36-45,47850.55425,378,0,2.826942033,0
+26,Male,Bachelor,Married,Phoenix,California,26-35,51912.76015,350,43,5.066821402,0
+24,Female,PhD,Married,Los Angeles,Arizona,18-25,46274.41728,475,35,8.172527536,1
+21,Female,Master,Married,Houston,California,18-25,31346.57421,552,42,6.313834928,1
+43,Female,Bachelor,Married,Houston,Texas,36-45,62916.7294,545,36,1.872255944,0
+38,Male,High School,Single,Phoenix,Arizona,36-45,71705.98873,405,1,5.932193475,0
+35,Male,Bachelor,Married,Phoenix,California,26-35,70297.67192,492,16,7.324644694,0
+30,Male,Bachelor,Married,Los Angeles,New York,26-35,76398.50505,615,39,8.134330652,0
+28,Female,Bachelor,Single,Los Angeles,Illinois,26-35,66486.8042,601,37,6.662058208,0
+41,Male,High School,Single,New York,Illinois,36-45,49345.49004,847,20,2.373923481,0
+21,Female,Master,Single,Houston,Illinois,18-25,76793.27729,567,8,7.391559399,0
+42,Male,Bachelor,Single,Houston,Arizona,36-45,32849.6492,469,12,7.096076615,1
+38,Female,High School,Married,Phoenix,California,36-45,41986.57235,850,10,1.219841946,0
+42,Male,High School,Single,New York,Arizona,36-45,40715.99857,754,15,4.705729008,0
+21,Male,Bachelor,Married,Houston,Texas,18-25,81601.12118,591,15,3.996552223,1
+27,Male,Master,Married,New York,New York,26-35,78855.77028,440,1,7.024708578,0
+22,Female,Master,Married,New York,New York,18-25,69746.10474,445,41,2.945222311,0
+26,Female,Master,Married,Phoenix,Illinois,26-35,81438.5973,724,43,6.317847307,0
+41,Male,High School,Married,New York,Illinois,36-45,42414.34435,613,7,9.218853656,0
+20,Male,Bachelor,Single,Los Angeles,Illinois,18-25,66971.9024,483,42,8.18022135,0
+34,Female,Bachelor,Single,Los Angeles,California,26-35,57496.51143,427,41,9.293119626,0
+20,Female,High School,Married,Chicago,Texas,18-25,76937.64208,586,12,9.806553702,0
+33,Female,High School,Married,Phoenix,Texas,26-35,57695.51535,552,16,1.096031143,0
+21,Male,Master,Single,Chicago,Texas,18-25,52301.14223,685,38,6.604671487,0
+35,Female,High School,Single,Los Angeles,Texas,26-35,70818.17037,529,23,4.71555458,0
+34,Male,Bachelor,Married,Chicago,Illinois,26-35,77523.38334,570,2,8.738690413,1
+24,Female,High School,Single,Phoenix,New York,18-25,46633.0961,714,29,3.266332318,0
+41,Male,High School,Married,Phoenix,Illinois,36-45,58778.48657,497,12,9.829265402,0
+40,Female,High School,Married,New York,Texas,36-45,38831.18733,622,18,6.523371726,0
+22,Female,PhD,Single,Houston,Illinois,18-25,25000,355,6,8.14183662,0
+29,Female,Master,Married,New York,Texas,26-35,64009.19263,502,8,1.770395975,0
+34,Female,PhD,Married,Phoenix,Arizona,26-35,72178.10713,437,18,2.651120963,0
+40,Female,Bachelor,Single,Los Angeles,New York,36-45,65241.33618,721,44,7.825633057,0
+30,Male,High School,Single,Los Angeles,Arizona,26-35,25000,356,39,1.197878698,1
+40,Female,Bachelor,Married,New York,California,36-45,52983.0114,370,21,8.351901873,0
+42,Female,Bachelor,Married,Phoenix,Illinois,36-45,25000,671,17,1.125541168,0
+20,Female,Master,Married,Los Angeles,California,18-25,87394.02215,813,22,6.914069552,0
+26,Male,High School,Single,Phoenix,Illinois,26-35,38278.90836,383,1,4.285845282,1
+34,Female,Bachelor,Married,Los Angeles,Arizona,26-35,85108.07219,342,49,6.503453674,0
+34,Male,High School,Married,Phoenix,Texas,26-35,78917.39287,432,49,7.264282663,0
+37,Female,High School,Single,Chicago,Texas,36-45,41988.19295,694,10,4.082276973,0
+33,Female,Master,Married,Phoenix,Illinois,26-35,37344.30097,364,30,1.971662033,1
+42,Male,Bachelor,Married,Phoenix,Texas,36-45,67007.40433,589,32,1.62681281,0
+39,Female,High School,Married,New York,Arizona,36-45,43113.51926,675,13,6.300424203,0
+30,Male,High School,Single,Chicago,Texas,26-35,62049.69284,766,15,5.685898184,0
+44,Male,Bachelor,Married,Houston,Arizona,36-45,50343.44818,512,10,7.679809082,0
+36,Female,Master,Married,New York,California,36-45,25000,447,32,5.58761959,1
+34,Male,Master,Single,Houston,Arizona,26-35,25000,770,6,4.80201211,0
+21,Female,PhD,Married,Los Angeles,New York,18-25,64533.68497,448,30,4.582784604,1
+29,Female,Master,Married,Houston,New York,26-35,48768.84507,387,47,1.238022123,0
+26,Male,High School,Married,Phoenix,New York,26-35,48938.20366,623,45,4.020014815,0
+36,Male,Bachelor,Married,Houston,Illinois,36-45,73917.27678,695,46,9.784181418,0
+29,Male,Bachelor,Married,New York,Illinois,26-35,83468.84553,703,13,8.862000186,0
+26,Male,High School,Married,New York,Illinois,26-35,54549.10557,381,27,3.964402603,0
+24,Female,Master,Married,Houston,Arizona,18-25,53188.02586,585,42,6.290158646,0
+45,Female,High School,Married,New York,Illinois,36-45,70002.86066,681,15,8.62567071,0
+31,Male,PhD,Single,New York,California,26-35,32861.28861,569,18,4.971469031,0
+37,Female,Bachelor,Single,Houston,New York,36-45,64463.06109,591,16,1.161620774,0
+36,Female,Bachelor,Single,Chicago,Arizona,36-45,71037.71944,752,25,1.670594156,0
+43,Female,Bachelor,Single,Chicago,New York,36-45,73604.60417,323,5,5.593534492,0
+32,Female,Master,Married,Los Angeles,Illinois,26-35,25000,610,42,9.724954381,0
+33,Male,Bachelor,Single,New York,Arizona,26-35,44772.8946,760,48,7.23888588,1
+38,Male,Bachelor,Married,Houston,Texas,36-45,42434.73494,507,8,1.638245723,1
+22,Female,High School,Single,New York,California,18-25,61997.73909,737,49,2.704247882,0
+20,Male,Bachelor,Single,Phoenix,Illinois,18-25,69614.8916,837,16,7.941908289,0
+29,Male,High School,Single,New York,Illinois,26-35,89934.20815,635,30,8.57295784,0
+42,Male,Master,Single,New York,California,36-45,50100.69039,721,11,6.559251276,0
+37,Female,Bachelor,Married,Chicago,California,36-45,50048.55003,620,22,6.799808527,0
+44,Female,Bachelor,Married,Houston,Texas,36-45,82993.44038,796,4,1.255037053,0
+38,Female,High School,Married,New York,Illinois,36-45,65931.53877,462,42,8.456772336,0
+21,Male,High School,Married,Chicago,Illinois,18-25,85353.03022,840,35,8.094476874,0
+38,Female,Master,Married,Los Angeles,New York,36-45,65774.56006,464,35,3.331316297,0
+40,Female,High School,Single,Chicago,Arizona,36-45,36857.66763,594,2,7.37809048,1
+33,Male,High School,Single,Chicago,Arizona,26-35,33337.4329,341,23,2.933691458,1
+42,Female,High School,Married,Chicago,New York,36-45,28969.75502,584,16,1.362971449,0
+24,Female,PhD,Single,New York,Arizona,18-25,73241.0367,686,38,2.810228883,0
+30,Male,Master,Single,New York,California,26-35,83771.93646,437,25,2.607659891,0
+38,Male,High School,Single,Los Angeles,Arizona,36-45,96987.24283,486,3,4.039731971,0
+27,Male,High School,Single,Phoenix,Arizona,26-35,76862.10665,730,44,4.766045475,0
+43,Female,High School,Married,Phoenix,New York,36-45,83256.77155,715,11,5.576850023,0
+24,Female,Master,Single,Phoenix,Texas,18-25,48399.67335,725,0,5.29078488,0
+31,Female,Bachelor,Single,Los Angeles,Arizona,26-35,36871.68367,715,20,3.436071454,0
+43,Male,High School,Married,Phoenix,Arizona,36-45,77001.58665,325,18,1.262536017,0
+22,Male,High School,Married,Phoenix,Texas,18-25,68353.61504,670,20,6.4459146,0
+20,Female,High School,Single,Chicago,New York,18-25,62148.88749,684,17,4.561703469,0
+40,Female,Bachelor,Married,New York,Texas,36-45,67747.42961,355,42,3.688049416,0
+28,Male,Master,Single,New York,New York,26-35,66463.70965,552,2,8.802469385,1
+28,Male,High School,Single,Chicago,California,26-35,85676.3372,405,48,7.72068977,1
+35,Male,High School,Married,Chicago,New York,26-35,85899.7117,429,43,8.719889935,0
+32,Male,High School,Married,Chicago,California,26-35,70884.40705,675,31,5.454845152,0
+29,Female,PhD,Single,New York,California,26-35,76916.05745,607,9,2.178381269,0
+26,Male,High School,Married,Phoenix,New York,26-35,70281.25105,390,39,7.265992925,0
+27,Female,Master,Married,Chicago,Illinois,26-35,50776.60536,692,14,2.854664019,0
+43,Female,Bachelor,Married,Los Angeles,New York,36-45,75131.2935,833,4,4.971067022,0
+29,Female,High School,Married,Chicago,Arizona,26-35,32110.09862,409,3,1.585007101,0
+34,Male,High School,Single,Houston,Arizona,26-35,81077.83105,639,27,8.427775622,0
+23,Male,High School,Married,Chicago,Illinois,18-25,36109.5412,655,50,2.133465769,0
+24,Male,Bachelor,Single,New York,California,18-25,65716.06574,467,3,9.127877563,1
+31,Male,Master,Married,Chicago,Illinois,26-35,43096.92083,751,14,8.77807542,0
+30,Female,Bachelor,Married,Houston,Arizona,26-35,71067.77966,404,16,5.18124488,1
+25,Male,Bachelor,Single,Los Angeles,Illinois,18-25,59321.49548,449,43,7.699313839,1
+27,Male,High School,Single,Phoenix,New York,26-35,28104.88084,445,2,6.575005664,1
+26,Female,PhD,Married,Chicago,Illinois,26-35,68413.99262,598,9,8.227680781,0
+35,Male,Master,Married,Houston,California,26-35,48441.58446,466,46,4.886245907,1
+44,Female,High School,Married,Houston,New York,36-45,77622.93442,347,41,8.072276358,0
+43,Female,PhD,Married,Los Angeles,Texas,36-45,60026.51377,538,22,5.162111354,0
+19,Female,Bachelor,Single,New York,Arizona,18-25,67908.41971,306,17,9.468692091,1
+22,Female,Bachelor,Married,Chicago,Arizona,18-25,40848.6209,763,0,5.377348907,0
+22,Female,Master,Married,Houston,Illinois,18-25,48213.35537,752,34,5.163573447,1
+23,Female,Master,Married,Los Angeles,New York,18-25,50827.22728,670,30,8.065646754,0
+36,Female,Bachelor,Single,Phoenix,Texas,36-45,77134.0496,848,43,8.394199226,0
+25,Female,High School,Single,Houston,New York,18-25,93547.54176,786,0,5.990402029,1
+33,Male,High School,Married,Los Angeles,Arizona,26-35,43896.56497,510,2,2.618180321,0
+30,Male,PhD,Single,New York,New York,26-35,81536.96289,464,2,5.209824079,0
+18,Male,High School,Married,New York,Texas,,25000,424,36,9.712652526,1
+39,Male,High School,Married,Houston,Illinois,36-45,36116.21198,636,18,7.776875737,1
+37,Female,Bachelor,Single,Houston,California,36-45,40824.43088,491,28,8.300463435,0
+34,Male,Bachelor,Single,Chicago,New York,26-35,32949.82621,513,24,1.295429489,0
+24,Female,Bachelor,Single,Los Angeles,California,18-25,28328.2322,627,32,5.210735164,0
+42,Male,PhD,Married,Houston,Arizona,36-45,68259.97824,680,35,6.819590203,0
+30,Male,High School,Married,Chicago,Illinois,26-35,55718.64605,538,28,8.470294153,0
+21,Male,High School,Single,Chicago,Illinois,18-25,67588.10795,831,25,1.443462882,0
+21,Female,High School,Married,Houston,New York,18-25,73809.45372,381,3,8.671949971,0
+23,Male,Master,Married,New York,Illinois,18-25,65312.33986,662,48,5.935608431,0
+45,Female,Bachelor,Married,Los Angeles,New York,36-45,73155.26352,804,13,2.775825735,0
+36,Female,High School,Single,Los Angeles,New York,36-45,58609.35428,501,49,3.855296948,0
+29,Male,Master,Married,New York,California,26-35,36260.13223,803,26,3.537365966,0
+39,Male,Master,Married,Houston,Illinois,36-45,81156.28362,336,32,5.777731309,1
+24,Male,Master,Single,Los Angeles,New York,18-25,48217.75734,701,21,1.465171119,1
+44,Female,PhD,Married,Houston,California,36-45,41288.07402,475,47,2.426825426,0
+27,Male,High School,Married,Houston,Texas,26-35,56441.64248,844,2,8.31423739,0
+43,Female,Master,Married,Chicago,California,36-45,41743.78161,766,22,2.193435917,0
+36,Female,Bachelor,Married,New York,California,36-45,51651.39236,500,20,3.100566425,0
+24,Male,Master,Married,Houston,New York,18-25,66881.07843,839,40,5.08033545,0
+20,Male,Master,Married,Phoenix,Arizona,18-25,66966.83478,846,22,5.654087993,0
+30,Female,Master,Single,New York,Arizona,26-35,42043.39867,693,3,7.872494317,0
+30,Female,Bachelor,Married,Los Angeles,Arizona,26-35,50245.89254,341,20,5.02599184,0
+35,Female,High School,Single,Chicago,California,26-35,81486.6601,692,36,8.108781589,0
+45,Male,Bachelor,Married,Los Angeles,New York,36-45,69928.00235,740,42,6.565116763,0
+43,Female,PhD,Married,Los Angeles,Illinois,36-45,101501.3008,805,30,2.017897655,0
+37,Male,PhD,Married,New York,California,36-45,83602.56347,619,20,2.406982946,0
+45,Female,High School,Married,Los Angeles,California,36-45,82885.86137,514,25,4.933303529,0
+25,Female,High School,Single,Houston,New York,18-25,32242.62899,370,40,4.572004538,1
+26,Male,High School,Married,Los Angeles,Texas,26-35,75277.20703,535,34,7.691898427,1
+24,Female,Master,Married,Chicago,California,18-25,58937.86397,580,37,6.226634258,0
+18,Male,Master,Single,Chicago,Texas,,48980.36393,461,23,4.493197729,1
+20,Male,High School,Single,Phoenix,Texas,18-25,63360.30681,490,10,2.536842551,0
+30,Female,Bachelor,Single,Chicago,Arizona,26-35,78904.23069,308,40,3.041533921,1
+45,Male,Master,Married,Los Angeles,New York,36-45,70016.63182,359,28,6.179509166,1
+42,Male,Master,Single,Chicago,Texas,36-45,42430.52397,524,46,4.810949244,0
+45,Female,Bachelor,Married,New York,New York,36-45,74849.17827,586,2,5.63434758,0
+34,Male,Bachelor,Married,Chicago,Arizona,26-35,47248.24916,468,0,2.536096918,0
+42,Male,Bachelor,Married,Houston,New York,36-45,64333.66238,361,18,6.966156271,0
+41,Male,High School,Married,New York,California,36-45,53932.99865,648,45,8.672848668,0
+18,Female,Bachelor,Married,Phoenix,Texas,,55622.67497,741,48,3.321455561,0
+23,Male,Bachelor,Married,Houston,New York,18-25,75324.8595,313,21,5.423628032,0
+38,Female,Master,Single,Los Angeles,Illinois,36-45,39196.1256,463,13,9.779745961,0
+23,Female,Bachelor,Married,Los Angeles,New York,18-25,98903.90149,719,48,3.999175665,0
+43,Male,Master,Married,Los Angeles,Texas,36-45,25000,819,13,6.355417104,0
+29,Male,High School,Married,Houston,Arizona,26-35,48046.64633,847,43,1.811761302,0
+30,Male,Bachelor,Single,Houston,Arizona,26-35,67404.2378,327,15,6.454135022,0
+30,Female,High School,Married,Houston,Texas,26-35,71686.28333,745,32,1.80668596,0
+32,Male,High School,Married,New York,California,26-35,57990.48559,507,12,9.633118918,0
+38,Male,Master,Single,New York,California,36-45,58852.18594,769,37,7.440963869,1
+33,Male,PhD,Single,Los Angeles,Arizona,26-35,68211.00171,403,48,8.093438093,1
+39,Male,High School,Married,Chicago,Arizona,36-45,55378.61045,725,11,7.336939247,0
+38,Male,Bachelor,Single,Los Angeles,Texas,36-45,87863.62516,400,50,6.307561325,1
+28,Female,Master,Single,Phoenix,California,26-35,76786.98228,840,37,5.04921503,0
+45,Female,High School,Single,New York,Arizona,36-45,77456.48702,821,38,8.725360418,0
+22,Male,Bachelor,Married,Houston,California,18-25,40676.86553,405,32,9.611521008,0
+21,Male,Master,Single,New York,Arizona,18-25,58412.23151,576,32,5.491325556,0
+20,Male,Bachelor,Married,Houston,New York,18-25,53990.68103,364,28,9.383815442,0
+36,Male,High School,Married,Phoenix,Illinois,36-45,39887.97249,487,4,6.24999619,0
+37,Female,High School,Married,Phoenix,New York,36-45,67203.28368,616,5,5.845457682,0
+42,Male,Master,Married,New York,Arizona,36-45,49247.08484,437,30,5.090344597,0
+35,Female,Bachelor,Married,Houston,Illinois,26-35,73108.0766,642,15,2.883589854,0
+32,Female,High School,Single,Phoenix,Illinois,26-35,38596.16874,404,30,1.033476947,0
+26,Male,Master,Married,Los Angeles,Arizona,26-35,94380.81226,845,24,3.173556042,0
+34,Female,High School,Married,Los Angeles,Arizona,26-35,42073.34683,679,47,5.587508544,0
+31,Female,Master,Married,Houston,California,26-35,64386.04674,409,45,4.41963957,0
+32,Female,High School,Married,New York,Arizona,26-35,75837.18621,844,32,5.036367052,0
+18,Female,PhD,Single,Phoenix,Texas,,48587.1914,653,12,9.825833976,1
+38,Male,High School,Married,New York,Arizona,36-45,77049.37287,616,9,4.152451336,0
+39,Male,High School,Married,Los Angeles,Texas,36-45,35416.32804,565,23,5.069646454,0
+39,Female,High School,Married,Phoenix,Arizona,36-45,89042.35398,364,9,2.201639962,0
+20,Male,High School,Married,New York,California,18-25,60282.9853,632,40,1.431619592,0
+33,Male,Master,Married,Chicago,Texas,26-35,48071.77184,812,30,7.978685631,1
+40,Male,PhD,Single,Houston,New York,36-45,54016.36455,432,12,6.136148576,1
+42,Male,High School,Single,Houston,Texas,36-45,76178.38539,839,2,7.846343254,1
+28,Male,Bachelor,Married,Chicago,California,26-35,48310.89416,834,49,2.34876519,0
+29,Female,Master,Single,Los Angeles,Texas,26-35,45012.84621,795,33,6.146458941,1
+27,Male,Master,Single,Phoenix,Arizona,26-35,55569.26805,668,48,3.282782269,1
+33,Male,Bachelor,Single,Houston,Arizona,26-35,36460.75774,398,27,3.052556352,0
+25,Male,High School,Married,Chicago,California,18-25,96410.87816,616,18,1.103734126,0
+23,Male,Bachelor,Married,Chicago,Illinois,18-25,48672.10818,422,22,2.173066512,1
+29,Female,Bachelor,Married,Los Angeles,Arizona,26-35,76632.33572,619,44,3.783413003,0
+41,Female,High School,Single,Los Angeles,New York,36-45,64189.40167,794,31,2.051908845,0
+45,Female,Bachelor,Single,New York,California,36-45,40309.31899,756,12,9.872725964,0
+38,Female,High School,Married,Houston,Texas,36-45,59880.90582,821,32,3.777693837,0
+25,Male,Master,Married,New York,Texas,18-25,75680.05559,819,33,2.17291552,0
+43,Female,High School,Single,Chicago,New York,36-45,56234.7733,614,32,2.791740815,0
+45,Male,Bachelor,Single,Phoenix,Arizona,36-45,83862.25892,841,4,6.289329055,0
+21,Male,Bachelor,Single,Phoenix,California,18-25,80430.30786,778,2,1.576391715,0
+43,Male,Bachelor,Single,Los Angeles,New York,36-45,78378.29709,319,6,8.761907171,0
+25,Male,High School,Married,Phoenix,Arizona,18-25,50806.86455,429,23,9.653497113,0
+43,Male,Bachelor,Married,Phoenix,California,36-45,38403.15104,592,21,3.220726786,0
+45,Female,Bachelor,Single,Phoenix,Texas,36-45,47728.24789,431,44,5.050857417,1
+35,Female,Bachelor,Married,Chicago,California,26-35,63924.81881,655,22,1.199210059,0
+45,Female,Bachelor,Married,Phoenix,Illinois,36-45,70915.73427,353,29,6.766392023,0
+45,Female,Bachelor,Single,Phoenix,California,36-45,25000,686,17,4.725334522,0
+22,Male,Master,Married,Phoenix,Illinois,18-25,59837.73597,564,31,3.430526195,1
+26,Female,High School,Single,New York,California,26-35,63161.78451,514,6,2.861533996,0
+21,Male,Master,Married,Chicago,Illinois,18-25,54449.11487,759,32,6.886207699,0
+44,Female,Bachelor,Single,Los Angeles,Texas,36-45,85825.47678,757,4,4.745953279,0
+39,Male,High School,Married,New York,Arizona,36-45,68435.60149,342,48,2.616933601,0
+34,Male,High School,Married,Houston,Illinois,26-35,86203.83816,577,27,7.201981733,0
+26,Female,High School,Single,Chicago,Illinois,26-35,55680.78959,429,7,6.085650547,1
+18,Male,Master,Married,Chicago,Texas,,78749.54985,649,14,8.728048494,0
+38,Male,Master,Single,Houston,Illinois,36-45,92701.32789,843,3,2.05728309,0
+37,Female,Master,Single,Houston,New York,36-45,86233.86899,405,33,8.070999418,0
+30,Male,Bachelor,Married,Houston,Texas,26-35,38157.16813,300,4,7.061651081,0
+45,Female,Bachelor,Married,Los Angeles,New York,36-45,54926.47845,731,32,2.035098431,0
+33,Female,High School,Married,Phoenix,Texas,26-35,53096.70589,605,4,7.253386569,0
+30,Female,High School,Married,Chicago,Illinois,26-35,69785.0907,826,37,4.9739256,0
+31,Male,Bachelor,Single,Phoenix,New York,26-35,73727.0711,352,33,9.50486307,1
+20,Male,High School,Single,Phoenix,Illinois,18-25,43222.14652,819,25,2.274502156,0
+23,Male,High School,Single,Houston,Texas,18-25,61356.77028,629,0,6.785500517,0
+35,Female,Bachelor,Single,Los Angeles,Illinois,26-35,25000,624,3,4.437820409,0
+36,Male,Master,Married,New York,New York,36-45,88838.90012,413,38,9.611332035,0
+22,Female,PhD,Single,Los Angeles,New York,18-25,49752.51519,446,25,3.969774058,1
+32,Female,PhD,Single,Phoenix,Illinois,26-35,61117.2788,465,32,9.659673185,1
+42,Male,Bachelor,Single,Los Angeles,California,36-45,53807.00572,678,32,9.11337266,0
+19,Female,Bachelor,Single,Houston,Texas,18-25,82920.5515,438,7,3.433449118,1
+27,Male,Bachelor,Married,New York,Texas,26-35,25000,598,19,8.231875991,0
+41,Male,Master,Single,Houston,Illinois,36-45,59667.79315,575,15,9.960437816,1
+35,Male,High School,Married,New York,California,26-35,57883.62485,477,20,3.27396702,0
+44,Male,Bachelor,Married,Phoenix,New York,36-45,50927.27225,653,44,4.930994524,0
+30,Male,Master,Married,New York,Arizona,26-35,94524.53091,453,25,5.681626629,0
+22,Female,High School,Single,New York,Arizona,18-25,42253.41082,500,22,3.654380222,1
+40,Female,Bachelor,Single,New York,Illinois,36-45,75435.92354,414,17,1.137383557,0
+41,Female,Bachelor,Single,Los Angeles,California,36-45,67125.05577,367,30,2.981163198,0
+18,Male,High School,Single,Los Angeles,California,,85230.38505,744,41,3.537431959,0
+39,Male,High School,Married,Phoenix,Texas,36-45,46656.2183,744,11,4.992397312,0
+18,Male,High School,Single,New York,New York,,45340.62202,625,0,2.539922306,1
+35,Female,High School,Married,Chicago,California,26-35,81921.39815,658,41,8.85928921,0
+32,Male,High School,Married,Phoenix,Arizona,26-35,68506.42617,444,8,7.344200195,0
+34,Female,Master,Married,New York,New York,26-35,29101.25307,574,2,1.766804298,0
+28,Female,High School,Single,New York,New York,26-35,49213.89971,808,50,6.85083206,1
+38,Male,Bachelor,Single,Los Angeles,Illinois,36-45,67727.65308,478,25,6.882908288,0
+43,Male,High School,Married,Phoenix,California,36-45,76755.28443,776,8,9.605990563,0
+42,Female,PhD,Married,New York,Illinois,36-45,46415.38694,713,41,1.027187842,0
+39,Male,High School,Single,New York,California,36-45,25000,452,50,3.231392048,1
+44,Female,Bachelor,Married,Phoenix,Texas,36-45,70464.46371,403,15,9.350123314,1
+44,Male,Master,Single,Chicago,Illinois,36-45,35593.5862,374,23,9.389205239,0
+34,Male,Master,Single,Phoenix,Illinois,26-35,25000,427,49,7.485277774,0
+30,Female,High School,Married,Phoenix,Arizona,26-35,25000,644,13,7.891869889,0
+18,Male,Master,Married,Chicago,Illinois,,76279.6172,830,2,1.823346621,0
+19,Female,Bachelor,Single,Phoenix,California,18-25,62572.34901,458,33,5.624882513,0
+26,Male,Bachelor,Single,New York,Arizona,26-35,55486.87239,837,32,3.084246922,0
+20,Female,High School,Married,Phoenix,Illinois,18-25,87780.48726,725,49,2.630962393,0
+18,Female,High School,Single,Chicago,Illinois,,72746.49366,322,23,8.292729692,1
+38,Male,Master,Married,Houston,Texas,36-45,92326.00085,346,8,2.21534323,0
+33,Female,Bachelor,Married,Phoenix,Illinois,26-35,32145.29056,824,12,5.217864733,0
+40,Male,Bachelor,Single,Los Angeles,New York,36-45,59308.98752,443,1,9.447204156,1
+23,Male,Master,Single,New York,Arizona,18-25,27665.7325,718,6,2.6724885,1
+45,Male,Master,Married,New York,New York,36-45,55412.35336,384,47,9.801940814,0
+34,Female,High School,Single,Los Angeles,Arizona,26-35,55027.68292,715,20,9.948591872,0
+22,Female,Bachelor,Married,Los Angeles,Texas,18-25,72532.27275,781,18,6.000554392,0
+22,Male,High School,Married,Phoenix,Illinois,18-25,60911.27762,755,24,2.531284662,0
+23,Male,Master,Married,Los Angeles,Illinois,18-25,72468.14277,596,46,3.844943991,0
+20,Female,Bachelor,Single,Houston,Illinois,18-25,74068.80266,411,21,4.820435494,0
+38,Male,PhD,Married,Chicago,Arizona,36-45,103098.5735,529,10,3.783918019,0
+40,Male,High School,Married,Los Angeles,Illinois,36-45,53694.06689,395,32,3.525720219,1
+22,Female,High School,Married,Los Angeles,New York,18-25,41179.54599,677,31,9.750067383,0
+38,Male,High School,Single,Houston,Illinois,36-45,64921.67231,455,20,2.380283447,0
+22,Female,High School,Single,New York,Texas,18-25,43954.39946,720,38,7.599951178,0
+27,Male,High School,Single,New York,New York,26-35,89639.21537,404,19,1.003692605,0
+27,Female,PhD,Married,Phoenix,Illinois,26-35,54335.63922,629,7,6.365644025,0
+36,Male,High School,Single,Houston,Illinois,36-45,48688.47264,738,41,9.243487036,0
+34,Male,High School,Married,Chicago,California,26-35,50573.68558,431,36,3.591406847,0
+38,Female,Master,Single,Chicago,Arizona,36-45,74368.34847,681,8,2.669733777,0
+31,Male,Bachelor,Single,Houston,New York,26-35,56845.06034,437,24,6.865118154,1
+26,Female,Master,Married,Chicago,California,26-35,47166.6636,569,24,7.413412666,0
+31,Male,High School,Single,New York,Texas,26-35,93307.03835,849,32,7.192274671,0
+18,Female,Bachelor,Married,Chicago,Arizona,,42876.60319,695,1,3.87385192,0
+36,Female,High School,Married,Chicago,New York,36-45,60711.32148,763,18,3.269821619,0
+30,Female,High School,Married,Houston,Illinois,26-35,73046.12303,749,45,9.6032692,0
+30,Female,PhD,Married,Houston,New York,26-35,27373.29779,630,19,9.309695574,1
+21,Male,High School,Married,Chicago,Illinois,18-25,69605.21003,552,41,5.115849489,0
+18,Male,Bachelor,Single,Los Angeles,Arizona,,38897.84649,584,40,8.615744795,1
+34,Female,Bachelor,Married,Houston,Illinois,26-35,76455.65562,573,41,5.070911299,0
+25,Female,High School,Single,Phoenix,Texas,18-25,40746.97976,319,28,4.819501163,0
+19,Female,Master,Married,Phoenix,Illinois,18-25,73855.38064,538,5,2.410866528,0
+45,Male,High School,Married,New York,Texas,36-45,82116.66133,569,16,4.837654508,0
+25,Male,Bachelor,Single,Chicago,Arizona,18-25,77228.73051,717,24,5.836752447,0
+24,Male,PhD,Married,Los Angeles,Arizona,18-25,65026.33296,609,37,1.202538947,0
+43,Male,Bachelor,Married,New York,New York,36-45,55373.98114,330,3,4.997017047,0
+43,Female,PhD,Single,Chicago,Texas,36-45,48471.60847,403,29,8.032205966,1
+19,Female,High School,Married,Houston,Texas,18-25,89420.69382,485,19,7.120414507,0
+39,Female,Bachelor,Married,Phoenix,California,36-45,46010.0956,427,2,6.7164129,1
+39,Male,High School,Married,Los Angeles,California,36-45,39258.67853,509,22,9.185998856,1
+20,Male,Master,Single,Phoenix,California,18-25,73307.3787,713,50,1.162288088,0
+44,Male,PhD,Single,Houston,Illinois,36-45,44077.26394,580,17,6.013428276,1
+35,Female,High School,Single,Chicago,California,26-35,40998.73005,552,25,8.086139636,1
+29,Female,Bachelor,Single,Houston,Texas,26-35,31127.91476,318,35,5.872018444,0
+18,Male,High School,Married,Houston,Illinois,,50341.80321,435,7,3.915059973,0
+39,Female,Bachelor,Married,Phoenix,Arizona,36-45,58345.69952,522,16,2.226255086,0
+29,Male,Bachelor,Single,Los Angeles,New York,26-35,64861.83455,302,30,8.988067646,0
+22,Male,PhD,Married,Houston,California,18-25,79026.12489,535,36,5.236861531,0
+44,Female,Bachelor,Married,Phoenix,Arizona,36-45,70537.95847,764,44,8.903036773,0
+42,Male,High School,Married,Los Angeles,Texas,36-45,56182.55561,527,32,6.272669102,0
+34,Female,High School,Married,Chicago,New York,26-35,56036.08647,798,26,7.06772905,0
+33,Male,High School,Single,Chicago,Arizona,26-35,70203.14938,820,44,8.238350389,0
+32,Female,High School,Married,New York,New York,26-35,85451.40326,438,3,6.932399901,0
+40,Female,High School,Married,Phoenix,California,36-45,62526.28399,575,21,4.582493566,0
+32,Female,Master,Married,Los Angeles,Texas,26-35,50617.38292,590,25,5.622700455,0
+22,Male,Bachelor,Single,Houston,New York,18-25,40142.67998,352,31,8.227409722,1
+38,Male,Bachelor,Married,Chicago,Arizona,36-45,31095.89471,409,23,4.362852667,0
+31,Female,High School,Married,Los Angeles,California,26-35,73325.39344,303,45,4.493093111,1
+19,Female,Master,Single,Phoenix,California,18-25,71559.57047,346,34,1.861211045,0
+28,Male,Master,Single,New York,Arizona,26-35,71547.2705,393,36,9.231259917,1
+36,Male,High School,Married,Chicago,Arizona,36-45,57426.81107,512,31,1.819326835,0
+24,Male,Master,Married,Los Angeles,New York,18-25,88138.69492,735,6,6.833882597,0
+23,Female,Bachelor,Married,Los Angeles,Illinois,18-25,50317.63011,807,32,4.718750309,0
+45,Male,High School,Married,Los Angeles,California,36-45,79105.38474,504,30,4.650574512,1
+19,Male,Bachelor,Married,Phoenix,New York,18-25,59225.1421,680,11,7.115966529,0
+23,Female,Bachelor,Married,Phoenix,Arizona,18-25,47832.98471,372,10,1.603843594,0
+35,Male,High School,Married,Phoenix,New York,26-35,71850.60615,815,23,6.343352047,0
+19,Male,PhD,Married,Houston,Arizona,18-25,68192.72237,375,7,7.948286074,0
+35,Male,Master,Single,Los Angeles,Texas,26-35,67139.45519,376,31,8.453914821,0
+32,Female,Bachelor,Single,Chicago,Arizona,26-35,61625.56844,709,37,2.534773505,1
+44,Female,Bachelor,Single,Phoenix,Arizona,36-45,59242.13837,405,21,9.076771451,0
+36,Female,Bachelor,Married,Phoenix,Arizona,36-45,107767.4399,850,33,6.905314827,0
+19,Female,Bachelor,Married,Los Angeles,Illinois,18-25,83685.1329,775,18,8.936693207,0
+37,Female,Bachelor,Single,Phoenix,Arizona,36-45,74456.5379,574,19,5.367526454,0
+42,Female,High School,Married,Houston,California,36-45,62235.98316,387,13,5.878300106,0
+23,Female,Bachelor,Married,Houston,California,18-25,80143.14401,376,32,9.271344493,1
+18,Male,Master,Married,Phoenix,New York,,70359.89553,376,9,9.09918589,0
+41,Male,Bachelor,Single,Los Angeles,Illinois,36-45,60524.09506,741,15,5.03344786,0
+32,Female,High School,Single,Los Angeles,New York,26-35,53928.71349,839,3,3.469713685,0
+45,Male,Master,Married,Los Angeles,California,36-45,58381.65325,544,26,4.538533911,0
+40,Male,High School,Married,New York,California,36-45,25000,681,27,4.489878957,1
+27,Female,High School,Single,Phoenix,Texas,26-35,64212.01679,441,42,3.581801875,0
+36,Male,High School,Married,Los Angeles,Arizona,36-45,50230.4784,667,15,3.417216439,0
+34,Male,High School,Single,Houston,California,26-35,91853.39997,383,32,8.749566428,1
+22,Male,Master,Single,Chicago,New York,18-25,60386.88142,442,47,1.628757286,0
+21,Male,Bachelor,Single,Chicago,New York,18-25,36220.73161,651,18,7.098500639,0
+27,Male,High School,Married,Los Angeles,Arizona,26-35,59002.39692,844,20,2.555380463,0
+41,Female,Master,Married,Chicago,Arizona,36-45,39077.5783,451,21,4.100553041,0
+34,Female,Master,Married,Chicago,Texas,26-35,69468.14831,457,8,1.553887307,0
+27,Female,Master,Single,New York,Illinois,26-35,65818.94729,745,8,3.429762732,0
+34,Male,High School,Single,Houston,New York,26-35,79156.79262,602,8,7.91578964,0
+45,Female,Bachelor,Married,Houston,Arizona,36-45,44182.36417,749,26,8.965137921,0
+37,Male,PhD,Married,New York,New York,36-45,60680.16192,523,16,2.993744367,0
+41,Male,Master,Single,New York,Arizona,36-45,32699.56409,342,43,5.171930553,0
+22,Male,High School,Single,Chicago,California,18-25,74029.89564,563,44,5.232916431,0
